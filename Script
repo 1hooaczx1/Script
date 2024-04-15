@@ -92,6 +92,13 @@ local ohString2 = "BadgeSkin"
 
 game:GetService("ReplicatedStorage").Remotes.MorphEvent:FireServer
 end) 
+end) 
+
+tab.newButton("Dex mobile", "Dex mobile", function()
+local __function = loadstring(game:HttpGet("https://github.com/Hosvile/DEX-Explorer/releases/latest/download/main.lua", true))
+
+__function(__function)
+end) 
 
 tab.newButton("Keyboard gui", "Keyboard gui", function()
 --[[
