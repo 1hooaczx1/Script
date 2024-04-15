@@ -48,7 +48,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/BidoSkinsYT/BidoSkins
 end) 
 
 tab.newButton("Tiger Hub", "Tiger Hub", function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/GamerScripter/Game-Hub/main/loader"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/balintTheDevX/TigerX-V2/main/Back"))()
 end) 
 
 tab.newButton("Game Hub", "Game Hub", function()
