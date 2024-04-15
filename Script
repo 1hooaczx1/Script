@@ -3,97 +3,6 @@ local window = DrRayLibrary:Load("1hooaczx1", "Default")
 
 local tab = DrRayLibrary.newTab("Script", "Script")
 
-tab.newButton("Game Poppy Playtime Bettle", "Game Poppy Playtime Bettle", function()
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
-local Window = Library.CreateLib("Tutorial", "BloodTheme")
-
-local ScreenGui = Instance.new("ScreenGui")
-ScreenGui.Name = "ScreenGui"
-ScreenGui.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
-ScreenGui.ResetOnSpawn = false
- 
-local Toggle = Instance.new("TextButton")
-Toggle.Name = "Toggle"
-Toggle.Parent = ScreenGui
-Toggle.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
-Toggle.Position = UDim2.new(0, 0, 0.454706937, 0)
-Toggle.Size = UDim2.new(0, 90, 0, 38)
-Toggle.Font = Enum.Font.SourceSans
-Toggle.Text = "Tutorial"
-Toggle.TextColor3 = Color3.fromRGB(248, 248, 248)
-Toggle.TextSize = 28.000
-Toggle.Draggable = true
-Toggle.MouseButton1Click:connect(function()
-    Library:ToggleUI()
-end)
- 
-local Corner = Instance.new("UICorner")
-Corner.Name = "Corner"
-Corner.Parent = Toggle
-
-
-local Tab = Window:NewTab("Game Poppy Playtime Bettle")
-local Section = Tab:NewSection("Game Poppy Playtime Bettle") 
-
-Section:NewButton("GetAllBedgeKill", " GetAllBedgeKill", function()
-game:GetService("ReplicatedStorage").Remotes.BadgeGiven:FireServer()
-game:GetService("ReplicatedStorage").Remotes.BadgeGiven50:FireServer()
-game:GetService("ReplicatedStorage").Remotes.BadgeGiven100:FireServer()
-game:GetService("ReplicatedStorage").Remotes.BadgeGiven250:FireServer()
-game:GetService("ReplicatedStorage").Remotes.BadgeGiven500:FireServer()
-game:GetService("ReplicatedStorage").Remotes.BadgeGiven1000:FireServer()
-end) 
-
-Section:NewButton("Golden Huggy", " Golden Huggy", function()
-local ohString1 = "GldHuggy"
-local ohString2 = "BadgeSkin"
-
-game:GetService("ReplicatedStorage").Remotes.MorphEvent:FireServer
-end) 
-
-Section:NewButton("GreenHuggy", "GreenHuggy!", function()
-local ohString1 = "GreenHuggy"
-local ohString2 = "BadgeSkin"
-
-game:GetService("ReplicatedStorage").Remotes.MorphEvent:FireServer
-end) 
-
-Section:NewButton("YellowHuggy", " YellowHuggy", function()
-local ohString1 = "YellowHuggy"
-local ohString2 = "BadgeSkin"
-
-game:GetService("ReplicatedStorage").Remotes.MorphEvent:FireServer
-end) 
-
-Section:NewButton("RedHuggy", " RedHuggy", function()
-local ohString1 = "RedHuggy"
-local ohString2 = "BadgeSkin"
-
-game:GetService("ReplicatedStorage").Remotes.MorphEvent:FireServer
-end) 
-
-Section:NewButton("BlueHuggy", " BlueHuggy", function()
-local ohString1 = "BlueHuggy"
-local ohString2 = "BadgeSkin"
-
-game:GetService("ReplicatedStorage").Remotes.MorphEvent:FireServer
-end) 
-
-Section:NewButton("RainbowMiniHuggy", " RainbowMiniHuggy", function()
-local ohString1 = "RainbowMini"
-local ohString2 = "BadgeSkin"
-
-game:GetService("ReplicatedStorage").Remotes.MorphEvent:FireServer
-end) 
-
-Section:NewButton("RainbowHuggy", " RainbowHuggy", function()
-local ohString1 = "RainbowHuggy"
-local ohString2 = "BadgeSkin"
-
-game:GetService("ReplicatedStorage").Remotes.MorphEvent:FireServer
-end) 
-end) 
-
 tab.newButton("Dex mobile", "Dex mobile", function()
 local __function = loadstring(game:HttpGet("https://github.com/Hosvile/DEX-Explorer/releases/latest/download/main.lua", true))
 
@@ -1282,5 +1191,96 @@ part.Saturation = 0
 part.Parent = game:GetService("Workspace").Camera
 --
 end) 
+end) 
+end) 
+
+tab.newButton("Game Poppy Playtime Bettle", "Game Poppy Playtime Bettle", function()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+local Window = Library.CreateLib("Tutorial", "BloodTheme")
+
+local ScreenGui = Instance.new("ScreenGui")
+ScreenGui.Name = "ScreenGui"
+ScreenGui.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+ScreenGui.ResetOnSpawn = false
+ 
+local Toggle = Instance.new("TextButton")
+Toggle.Name = "Toggle"
+Toggle.Parent = ScreenGui
+Toggle.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Toggle.Position = UDim2.new(0, 0, 0.454706937, 0)
+Toggle.Size = UDim2.new(0, 90, 0, 38)
+Toggle.Font = Enum.Font.SourceSans
+Toggle.Text = "Tutorial"
+Toggle.TextColor3 = Color3.fromRGB(248, 248, 248)
+Toggle.TextSize = 28.000
+Toggle.Draggable = true
+Toggle.MouseButton1Click:connect(function()
+    Library:ToggleUI()
+end)
+ 
+local Corner = Instance.new("UICorner")
+Corner.Name = "Corner"
+Corner.Parent = Toggle
+
+
+local Tab = Window:NewTab("Game Poppy Playtime Bettle")
+local Section = Tab:NewSection("Game Poppy Playtime Bettle") 
+
+Section:NewButton("GetAllBedgeKill", " GetAllBedgeKill", function()
+game:GetService("ReplicatedStorage").Remotes.BadgeGiven:FireServer()
+game:GetService("ReplicatedStorage").Remotes.BadgeGiven50:FireServer()
+game:GetService("ReplicatedStorage").Remotes.BadgeGiven100:FireServer()
+game:GetService("ReplicatedStorage").Remotes.BadgeGiven250:FireServer()
+game:GetService("ReplicatedStorage").Remotes.BadgeGiven500:FireServer()
+game:GetService("ReplicatedStorage").Remotes.BadgeGiven1000:FireServer()
+end) 
+
+Section:NewButton("Golden Huggy", " Golden Huggy", function()
+local ohString1 = "GldHuggy"
+local ohString2 = "BadgeSkin"
+
+game:GetService("ReplicatedStorage").Remotes.MorphEvent:FireServer
+end) 
+
+Section:NewButton("GreenHuggy", "GreenHuggy!", function()
+local ohString1 = "GreenHuggy"
+local ohString2 = "BadgeSkin"
+
+game:GetService("ReplicatedStorage").Remotes.MorphEvent:FireServer
+end) 
+
+Section:NewButton("YellowHuggy", " YellowHuggy", function()
+local ohString1 = "YellowHuggy"
+local ohString2 = "BadgeSkin"
+
+game:GetService("ReplicatedStorage").Remotes.MorphEvent:FireServer
+end) 
+
+Section:NewButton("RedHuggy", " RedHuggy", function()
+local ohString1 = "RedHuggy"
+local ohString2 = "BadgeSkin"
+
+game:GetService("ReplicatedStorage").Remotes.MorphEvent:FireServer
+end) 
+
+Section:NewButton("BlueHuggy", " BlueHuggy", function()
+local ohString1 = "BlueHuggy"
+local ohString2 = "BadgeSkin"
+
+game:GetService("ReplicatedStorage").Remotes.MorphEvent:FireServer
+end) 
+
+Section:NewButton("RainbowMiniHuggy", " RainbowMiniHuggy", function()
+local ohString1 = "RainbowMini"
+local ohString2 = "BadgeSkin"
+
+game:GetService("ReplicatedStorage").Remotes.MorphEvent:FireServer
+end) 
+
+Section:NewButton("RainbowHuggy", " RainbowHuggy", function()
+local ohString1 = "RainbowHuggy"
+local ohString2 = "BadgeSkin"
+
+game:GetService("ReplicatedStorage").Remotes.MorphEvent:FireServer
 end) 
 end) 
