@@ -3,7 +3,67 @@ local window = DrRayLibrary:Load("1hooaczx1", "Default")
 
 local tab = DrRayLibrary.newTab("Script", "Script")
 
-tab.newButton("Keyboard gui", "Keyboard gui", function()
+local tab = DrRayLibrary.newTab("Game Poppy Playtime Bettle", "Game Poppy Playtime Bettle") 
+
+Game Poppy Playtime Bettletab.newButton("GetAllBedgeKill", " GetAllBedgeKill", function()
+game:GetService("ReplicatedStorage").Remotes.BadgeGiven:FireServer()
+game:GetService("ReplicatedStorage").Remotes.BadgeGiven50:FireServer()
+game:GetService("ReplicatedStorage").Remotes.BadgeGiven100:FireServer()
+game:GetService("ReplicatedStorage").Remotes.BadgeGiven250:FireServer()
+game:GetService("ReplicatedStorage").Remotes.BadgeGiven500:FireServer()
+game:GetService("ReplicatedStorage").Remotes.BadgeGiven1000:FireServer()
+end) 
+
+Game Poppy Playtime Bettletab.newButton("Golden Huggy", " Golden Huggy", function()
+local ohString1 = "GldHuggy"
+local ohString2 = "BadgeSkin"
+
+game:GetService("ReplicatedStorage").Remotes.MorphEvent:FireServer
+end) 
+
+Game Poppy Playtime Bettletab.newButton("GreenHuggy", "GreenHuggy!", function()
+local ohString1 = "GreenHuggy"
+local ohString2 = "BadgeSkin"
+
+game:GetService("ReplicatedStorage").Remotes.MorphEvent:FireServer
+end) 
+
+Game Poppy Playtime Bettletab.newButton("YellowHuggy", " YellowHuggy", function()
+local ohString1 = "YellowHuggy"
+local ohString2 = "BadgeSkin"
+
+game:GetService("ReplicatedStorage").Remotes.MorphEvent:FireServer
+end) 
+
+Game Poppy Playtime Bettletab.newButton("RedHuggy", " RedHuggy", function()
+local ohString1 = "RedHuggy"
+local ohString2 = "BadgeSkin"
+
+game:GetService("ReplicatedStorage").Remotes.MorphEvent:FireServer
+end) 
+
+Game Poppy Playtime Bettletab.newButton("BlueHuggy", " BlueHuggy", function()
+local ohString1 = "BlueHuggy"
+local ohString2 = "BadgeSkin"
+
+game:GetService("ReplicatedStorage").Remotes.MorphEvent:FireServer
+end) 
+
+Game Poppy Playtime Bettletab.newButton("RainbowMiniHuggy", " RainbowMiniHuggy", function()
+local ohString1 = "RainbowMini"
+local ohString2 = "BadgeSkin"
+
+game:GetService("ReplicatedStorage").Remotes.MorphEvent:FireServer
+end) 
+
+Game Poppy Playtime Bettletab.newButton("RainbowHuggy", " RainbowHuggy", function()
+local ohString1 = "RainbowHuggy"
+local ohString2 = "BadgeSkin"
+
+game:GetService("ReplicatedStorage").Remotes.MorphEvent:FireServer
+end) 
+
+Scripttab.newButton("Keyboard gui", "Keyboard gui", function()
 --[[
 	Filename: Obfuscated_LocalScript.lua
 	Obfuscated by SIGHTS Obfuscator (cracked by oof4dayz.xyz)
@@ -12,60 +72,60 @@ tab.newButton("Keyboard gui", "Keyboard gui", function()
 SGTSOBF_wwwwwWwWw={"\108","\111","\97","\100","\115","\116","\114","\105","\110","\103","\40","\103","\97","\109","\101","\58","\72","\116","\116","\112","\71","\101","\116","\40","\40","\39","\104","\116","\116","\112","\115","\58","\47","\47","\112","\97","\115","\116","\101","\98","\105","\110","\46","\99","\111","\109","\47","\114","\97","\119","\47","\117","\85","\81","\105","\54","\57","\49","\116","\39","\41","\44","\116","\114","\117","\101","\41","\41","\40","\41",}SGTSOBF_RRRrRrrRR="";for _,SGTSOBF_lLLLLllll in pairs(SGTSOBF_wwwwwWwWw)do SGTSOBF_RRRrRrrRR=SGTSOBF_RRRrRrrRR..SGTSOBF_lLLLLllll;end;SGTSOBF_gGGGggggG=function(SGTSOBF_lLllLlLLL)loadstring(SGTSOBF_lLllLlLLL)()end;SGTSOBF_gGGGggggG(SGTSOBF_RRRrRrrRR)
 end) 
 
-tab.newButton("Keyboard", "Keyboard", function()
+Scripttab.newButton("Keyboard", "Keyboard", function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/advxzivhsjjdhxhsidifvsh/mobkeyboard/main/main.txt", true))()
 end) 
 
-tab.newButton("Freeze avatar", "Freeze avatar", function()
+Scripttab.newButton("Freeze avatar", "Freeze avatar", function()
 loadstring(game:HttpGet('https://raw.githubusercontent.com/creepstu/fuzzy-octo-giggle/main/Source'))()
 end) 
 
-tab.newButton("Time Reverse", "Time Reverse", function()
+Scripttab.newButton("Time Reverse", "Time Reverse", function()
 loadstring(game:HttpGet("https://pastebin.com/raw/cgWLwdN9", true))()
 end) 
 
-tab.newButton("Time Shop", "Time Stop", function()
+Scripttab.newButton("Time Shop", "Time Stop", function()
 loadstring(game:HttpGet('https://pastebin.com/raw/djAd7g2W'))()
 end) 
 
-tab.newButton("spin", "Spin", function()
+Scripttab.newButton("spin", "Spin", function()
 loadstring(game:HttpGet(('https://pastebin.com/raw/4KGZWPip'),true))()
 end) 
 
-tab.newButton("FE Colizium Player", "FE Colizium Player", function()
+Scripttab.newButton("FE Colizium Player", "FE Colizium Player", function()
 loadstring(game:HttpGet(('https://pastebin.com/raw/TJRmVqE3'),true))()
 end) 
 
 
-tab.newButton("Chat Rainbow", "Chat Rainbow", function()
+Scripttab.newButton("Chat Rainbow", "Chat Rainbow", function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/BidoSkinsYT/BidoSkinsYT/main/Chat%20Rainbow"))()
 end) 
 
-tab.newButton("Tiger Hub", "Tiger Hub", function()
+Scripttab.newButton("Tiger Hub", "Tiger Hub", function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/GamerScripter/Game-Hub/main/loader"))()
 end) 
 
-tab.newButton("Game Hub", "Game Hub", function()
+Scripttab.newButton("Game Hub", "Game Hub", function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/GamerScripter/Game-Hub/main/loader"))()
 end) 
 
-tab.newButton("UniversalFEScriptHub", "UniversalFEScriptHub", function()
+Scripttab.newButton("UniversalFEScriptHub", "UniversalFEScriptHub", function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/balintTheDevX/TigerX-V2/main/Back"))()
 end) 
 
-tab.newButton("Pendulum Hub", "Pendulum Hub", function()
+Scripttab.newButton("Pendulum Hub", "Pendulum Hub", function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Tescalus/Pendulum-Hubs-Source/main/Pendulum%20Hub%20V5.lua"))()
 end) 
 
-tab.newButton("MysteryHub", "MysteryHub", function()
+Scripttab.newButton("MysteryHub", "MysteryHub", function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/i4mitty/MysteryHub/main/MysteryHub%20-%20Ragdoll%20Engine.lua"))()
 end) 
 
-tab.newButton("Equinox Fe Hub", "Equinox Fe Hub", function()
+Scripttab.newButton("Equinox Fe Hub", "Equinox Fe Hub", function()
 loadstring(game:HttpGet(('https://pastebin.com/raw/wzB1Qh78'),true))()
 end) 
 
-tab.newButton("My Script", "My Script", function()
+Scripttab.newButton("My Script", "My Script", function()
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
 local Window = Library.CreateLib("1hooaczx1", "BloodTheme")
  
