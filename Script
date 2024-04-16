@@ -26,6 +26,14 @@ tab.newButton("Freeze avatar", "Freeze avatar", function()
 loadstring(game:HttpGet('https://raw.githubusercontent.com/creepstu/fuzzy-octo-giggle/main/Source'))()
 end) 
 
+tab.newButton("Fling All", "Fling All", function()
+loadstring(game:HttpGet("https://pastebin.com/raw/zqyDSUWX"))()
+end) 
+
+tab.newButton("Fling gui", "Fling gui", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/0Ben1/fe./main/Fling%20GUI"))()
+end) 
+
 tab.newButton("Time Reverse", "Time Reverse", function()
 loadstring(game:HttpGet("https://pastebin.com/raw/cgWLwdN9", true))()
 end) 
