@@ -26,6 +26,14 @@ tab.newButton("Freeze avatar", "Freeze avatar", function()
 loadstring(game:HttpGet('https://raw.githubusercontent.com/creepstu/fuzzy-octo-giggle/main/Source'))()
 end) 
 
+tab.newButton("Domain Hub", "Domain Hub", function()
+loadstring(game:HttpGet('https://shlex.dev/release/domainx/latest.lua',true))()
+end) 
+
+tab.newButton("COOlkid gui", "COOlkid gui", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/sinret/rbxscript.com-scripts-reuploads-/main/ckid", true))()
+end) 
+
 tab.newButton("Fling All", "Fling All", function()
 loadstring(game:HttpGet("https://pastebin.com/raw/zqyDSUWX"))()
 end) 
