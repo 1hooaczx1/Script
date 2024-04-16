@@ -216,7 +216,7 @@ tab.newButton("Time Shop", "Time Stop", function()
 loadstring(game:HttpGet('https://pastebin.com/raw/djAd7g2W'))()
 end) 
 
-tab.newButton("spin", "Spin", function()
+tab.newButton("Spin", "Spin", function()
 loadstring(game:HttpGet(('https://pastebin.com/raw/4KGZWPip'),true))()
 end) 
 
