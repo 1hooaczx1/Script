@@ -201,7 +201,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/0Ben1/fe./main/Fling%
 end) 
 
 tab.newButton("Bido Skins Hub", "Bido Skins Hub", function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/BidoSkinsYT/BidoSkinsYT/main/Bido%20SkinsV1.5"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BidoSkinsYT/BidoSkinsYT/main/Bido%20Skins%20V1.8"))()
 end) 
 
 tab.newButton("DOMAIN X HUB", "DOMAIN X HUB", function()
@@ -235,6 +235,10 @@ end)
 
 tab.newButton("Game Hub", "Game Hub", function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/GamerScripter/Game-Hub/main/loader"))()
+end) 
+
+tab.newButton("Game Hub V6.1", "Game Hub V6.1", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TakeModzz/Games-Hub-Script/main/Games%20Hub%20(Always%20updated)"))()
 end) 
 
 tab.newButton("UniversalFEScriptHub", "UniversalFEScriptHub", function()
@@ -286,6 +290,10 @@ local Section = Tab:NewSection("Script")
 
 Section:NewButton("F3X", "F3X", function()
 loadstring(game:GetObjects("rbxassetid://6695644299")[1].Source)()
+end) 
+
+Section:NewButton("BTools", "BTools", function()
+loadstring(game:HttpGet("https://cdn.wearedevs.net/scripts/BTools.txt"))()
 end) 
 
 Section:NewButton("Rejoin", "Rejoin", function()
