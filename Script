@@ -401,7 +401,7 @@ TextButton.MouseButton1Down:connect(function()
 end)
 end) 
 
-tab.newButton("GHub", "GHub", function()
+tab.newButton("MintHub", "MintHub", function()
 loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-Transformation-gui-9162", true))()
 end) 
 
