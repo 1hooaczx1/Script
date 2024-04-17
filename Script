@@ -469,6 +469,27 @@ Cred.TextSize = 14.000
 Cred.TextWrapped = true
 end) 
 
+tab.newButton("Show Fps and Ping", "Show Fps and Ping", function()
+loadstring(game:HttpGet("https://pastebin.com/raw/a0uXyDSE"))()
+end) 
+
+tab.newButton("Zoom", "Zoom", function()
+loadstring(game:HttpGet(('https://pastefy.app/Rmbg6Zxh/raw'),true))()
+end) 
+
+tab.newButton("SnowFlake", "SnowFlake", function()
+loadstring(game:HttpGet(('https://pastebin.com/raw/9AxRXEvJ'),true))()
+end) 
+
+tab.newButton("MoveSun", "MoveSun", function()
+loadstring(game:HttpGet(('https://pastefy.app/oi4CGDzs/raw'),true))()
+end) 
+tab.newButton("copy nicknames", "copy nicknames", function()
+
+tab.newButton("Universall Maker", "Universall Maker", function()
+loadstring(game:HttpGet(('https://pastefy.app/EOgPqinS/raw'),true))()
+end) 
+
 tab.newButton("UniL Hub", "UniL Hub", function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/CJFabro8/NOOB/main/UniL"))()
 end) 
