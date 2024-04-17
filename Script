@@ -469,6 +469,10 @@ Cred.TextSize = 14.000
 Cred.TextWrapped = true
 end) 
 
+tab.newButton("jLn0n's Executor", "jLn0n's Executor", function()
+loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/jLn0n/executor-gui/main/src/loader.lua"))()
+end) 
+
 tab.newButton("Show Fps and Ping", "Show Fps and Ping", function()
 loadstring(game:HttpGet("https://pastebin.com/raw/a0uXyDSE"))()
 end) 
