@@ -347,6 +347,18 @@ TextButton.MouseButton1Down:connect(function()
 end)
 end) 
 
+tab.newButton("Set Tween Teleporter", "Set Tween Teleporter", function()
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Bac0nHck/Scripts/main/TweenTeleporter'),true))()
+end) 
+
+tab.newButton("Serverside Controll Center", "Serverside Controll Center", function()
+str_srce = "14682300022" loadstring(game:GetObjects("rbxassetid://"..str_srce)[1].Source)()
+end) 
+
+tab.newButton("Chat Breaker", "Chat Breaker", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Avtor1zaTion/Chat-Breaker/main/Protected_5902323854612592.lua"))()
+end) 
+
 tab.newButton("Atomic Hub", "Atomic Hub", function()
 loadstring(game:HttpGet('https://raw.githubusercontent.com/n0kc/AtomicHub/main/Script.lua'))()
 end) 
