@@ -421,6 +421,10 @@ tab.newButton("GHub", "GHub", function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/gclich/GHUBV14XZ/main/Ghub_Main_Loader.txt"))()
 end) 
 
+tab.newButton("Haxker_6666666 Hub", "Haxker_6666666 Hub", function()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/FreeRobloxScripts1/Haxker_6666666-Hub/main/loader'))()
+end) 
+
 tab.newButton("Sky Hub", "Sky Hub", function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/SkyHub.txt"))()
 end) 
