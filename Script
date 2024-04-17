@@ -1224,7 +1224,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/contentdeleted/lua/ma
 end) 
 
 Section:NewButton("Aedio Logger", "Aedio Logger", function()
-loadstring(game:HttpGet("https://pastebin.com/tj9B565T"))()
+loadstring(game:HttpGet("https://pastebin.com/Th7A97jw"))()
 end) 
 
 Section:NewButton("Chat Logger", "Chat Logger", function()
