@@ -1606,19 +1606,12 @@ end)
 end)
 
 Section:NewButton("Drop item", "Drop item", function()
--- Gui to Lua
--- Version: 3.2
-
--- Instances:
-
 local DropGUI = Instance.new("ScreenGui")
 local main = Instance.new("Frame")
 local DropTool = Instance.new("TextButton")
 local Equip = Instance.new("TextButton")
 local Version = Instance.new("TextButton")
 local Cred = Instance.new("TextButton")
-
---Properties:
 
 DropGUI.Name = "Drop GUI"
 DropGUI.Parent = game.CoreGui
