@@ -401,6 +401,10 @@ TextButton.MouseButton1Down:connect(function()
 end)
 end) 
 
+tab.newButton("chat bypass", "chat bypass", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ChainGotStucked/a55af82d82574/main/Eminence%20Hub"))()
+end) 
+
 tab.newButton("MintHub", "MintHub", function()
 loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-Transformation-gui-9162", true))()
 end) 
