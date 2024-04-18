@@ -100,9 +100,11 @@ screenGui:Destroy()
 local DrRayLibrary = loadstring(game:HttpGet("https://raw.githubusercontent.com/AZYsGithub/DrRay-UI-Library/main/DrRay.lua"))()
 local window = DrRayLibrary:Load("1hooaczx1", "Default")
 
-local tab = DrRayLibrary.newTab("Tab", "Tab1")
+local tab = DrRayLibrary.newTab("Tab1", "Tab1")
 
-tab.newButton("Dex mobile", "Dex mobile", function()
+local tab = DrRayLibrary.newTab("Tab2", "Tab2")
+
+tab2.newButton("Dex mobile", "Dex mobile", function()
 local __function = loadstring(game:HttpGet("https://github.com/Hosvile/DEX-Explorer/releases/latest/download/main.lua", true))
 
 __function(__function)
