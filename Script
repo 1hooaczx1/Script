@@ -355,10 +355,6 @@ tab.newButton("Serverside Controll Center", "Serverside Controll Center", functi
 str_srce = "14682300022" loadstring(game:GetObjects("rbxassetid://"..str_srce)[1].Source)()
 end) 
 
-tab.newButton("Chat Breaker", "Chat Breaker", function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Avtor1zaTion/Chat-Breaker/main/Protected_5902323854612592.lua"))()
-end) 
-
 tab.newButton("Atomic Hub", "Atomic Hub", function()
 loadstring(game:HttpGet('https://raw.githubusercontent.com/n0kc/AtomicHub/main/Script.lua'))()
 end) 
@@ -399,10 +395,6 @@ TextButton.TextSize = 14.000
 TextButton.MouseButton1Down:connect(function()
 	loadstring(game:HttpGet(('https://pastebin.com/raw/ukFZuXbb'),true))()
 end)
-end) 
-
-tab.newButton("chat bypass", "chat bypass", function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ChainGotStucked/a55af82d82574/main/Eminence%20Hub"))()
 end) 
 
 tab.newButton("MintHub", "MintHub", function()
@@ -475,15 +467,6 @@ end)
 
 tab.newButton("MoveSun", "MoveSun", function()
 loadstring(game:HttpGet(('https://pastefy.app/oi4CGDzs/raw'),true))()
-end) 
-
-tab.newButton("copy chat", "copy chat", function()
-local Action = game.Players:GetPlayers()
-  for i = 1,#Action do
-Action[i].Chatted:connect(function(Message)
-  game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("".."["..Action[i].Name.."]".." "..Message, "All")
-  end)
-end
 end) 
 
 tab.newButton("Universall Maker", "Universall Maker", function()
