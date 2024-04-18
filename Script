@@ -904,10 +904,6 @@ end
 --open source
 end) 
 
-tab.newButton("Universal Fly, Godmode, Sit", "Universal Fly, Godmode, Sit", function()
-loadstring(game:HttpGet("https://freenote.biz/raw/necDCYOXM7"))()
-end) 
-
 tab.newButton("Teleport GUI", "Teleport GUI", function()
 local Players = game:GetService("Players")
 local RunService = game:GetService("RunService")
@@ -1129,7 +1125,7 @@ closeButton.MouseButton1Click:Connect(function()
 end)
 end) 
 
-tab.newButton("Executor Gui", "Executor Gui", function()
+tab.newButton("Delta Executor", "Delta Executor", function()
 local NotificationHolder = loadstring(game:HttpGet("https://raw.githubusercontent.com/BocusLuke/UI/main/STX/Module.Lua"))()
 local Notification = loadstring(game:HttpGet("https://raw.githubusercontent.com/BocusLuke/UI/main/STX/Client.Lua"))()
 
