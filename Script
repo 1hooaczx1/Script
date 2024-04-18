@@ -1344,6 +1344,10 @@ tab.newButton("Dex V2", "Dex V2", function()
 loadstring(game:HttpGet(('https://raw.githubusercontent.com/Avtor1zaTion/Dex-explorer/main/Dex%20explorer'),true))()
 end) 
 
+tab.newButton("Turtle spy pc", "Turtle spy pc", function()
+loadstring(game:HttpGetAsync("https://pastebin.com/raw/BDhSQqUU",true))()
+end) 
+
 tab.newButton("GHub", "GHub", function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/gclich/GHUBV14XZ/main/Ghub_Main_Loader.txt"))()
 end) 
