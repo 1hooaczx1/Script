@@ -102,11 +102,15 @@ local window = DrRayLibrary:Load("1hooaczx1", "Default")
 
 local tab = DrRayLibrary.newTab("Script", "Script")
 
-tab.newButton("My Script", "My Script", function()
+tab.newButton("ui", "ui", function()
 local DrRayLibrary = loadstring(game:HttpGet("https://raw.githubusercontent.com/AZYsGithub/DrRay-UI-Library/main/DrRay.lua"))()
 local window = DrRayLibrary:Load("1hooaczx1", "Default")
 
 local tab = DrRayLibrary.newTab("Script", "Script")
+
+tab.newButton("", "", function()
+hi
+end) 
 
 tab.newButton("Dex mobile", "Dex mobile", function()
 local __function = loadstring(game:HttpGet("https://github.com/Hosvile/DEX-Explorer/releases/latest/download/main.lua", true))
@@ -3046,7 +3050,6 @@ end)
 end) 
   
   end
-end)
 end) 
 
 KeyButton.MouseButton1Click:Connect(function()
