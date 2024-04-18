@@ -421,6 +421,933 @@ tab.newButton("REDzHUB", "REDzHUB", function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/REDzHUB/REDzHUB/main/REDzHUB"))()
 end) 
 
+tab.newButton("RTX GUI", "RTX GUI", function()
+local o,l = '|This file was obfucasted by Sx-p0t#8992|','|Discord: https://discord.gg/kmnVzQn85j|';local Q = '^`Tz#~[l[{UG]a7UExmWxGkyBje9hd%-cDr%Cn}zhP5fPHZ_5@M]nWwP6At?5FG=o9fjdnZ8sjl(~&ZL%#dfw!GPT!Tuk}mz3sJ7FdKYmWLmIfXr(1xjG4Z|JnpThC)@VxN[A{UNPbZ=hsk}_Idvh2rQ^Hf=!{3ArmwSf&aV*0O})Z)8c-~jUq0FY5yDZ[3*j}Ep@F!YbuS_)GY-yXb)%1uICS@]PK%YEo$lTT9V%xK24eU`1V*Lrg)UY0RifB7KPPVeeA0(XfQwkfv#0hs(ohH#7}+#vXs@i$&mjLa6RQ`1VtIrB1eP8MxLGnt2@LJ)uubD6bfsRe)ixxzZ{Dk2^HirVC)B$ypcSqFtrLM9PB*$YlHSORpz}yRP0G&I4bLsr*LJx{n#uaU(l]F0OV|I)M=O(9=S!D!]qqGNjUvEU&r6$XCxnx5c!YQYDJli$+f`hMMrb7VWS$yAF0XT{yV4=hxvRIDzzJxG+9X=MnO~|$zBI=+CqL';local Q = '^`Tz#~[l[{UG]a7UExmWxGkyBje9hd%-cDr%Cn}zhP5fPHZ_5@M]nWwP6At?5FG=o9fjdnZ8sjl(~&ZL%#dfw!GPT!Tuk}mz3sJ7FdKYmWLmIfXr(1xjG4Z|JnpThC)@VxN[A{UNPbZ=hsk}_Idvh2rQ^Hf=!{3ArmwSf&aV*0O})Z)8c-~jUq0FY5yDZ[3*j}Ep@F!YbuS_)GY-yXb)%1uICS@]PK%YEo$lTT9V%xK24eU`1V*Lrg)UY0RifB7KPPVeeA0(XfQwkfv#0hs(ohH#7}+#vXs@i$&mjLa6RQ`1VtIrB1eP8MxLGnt2@LJ)uubD6bfsRe)ixxzZ{Dk2^HirVC)B$ypcSqFtrLM9PB*$YlHSORpz}yRP0G&I4bLsr*LJx{n#uaU(l]F0OV|I)M=O(9=S!D!]qqGNjUvEU&r6$XCxnx5c!YQYDJli$+f`hMMrb7VWS$yAF0XT{yV4=hxvRIDzzJxG+9X=MnO~|$zBI=+CqL';local Q = 'What am i doing with my life? Making lego hacks';local Q = '89537991995390753215231231070089032731930560546867491524732730633917010167211898648700273557521913624730461541406286213669411503875249395450690219840206258409796321250805864986870991526366236968193173760258836825088624357944863171557572466059658420856651037455500368505210276028104779872527078114075596524236057424312674482203600250802236931684125383721052322447438761454513925463846042284429172058193645948494879573791234152358277532126076563411780904420755572336559256902254333423875941499733498324';local Q = 'What am i doing with my life? Making lego hacks';local Q = '//7////1//74///74318341//1//0/////2//1//0690648/9/5/1836//2/4/944/2/00/18/211///85///03/467/731/1/925/4/5817515082/830498/51270///736///766/8/021//5/30926/40///9/21370//7/86//8/////1728489348/9/0/42/4/8/37//48//8///834/7//65/841/177/7/3599/7/97/520/788600//5667///8/8063103/802/104/////382/0//105//66/87352/8/6/5354129/55/33//9/026//033/8/419/4027////32/7243255/6///8147662//36684/59/522/553/1/3/7/1/4867/5/5/6///7/4//224617347/2//8/3139//868/510//0/0552//777/3/4887//79/033654//534//8/516/////5///25';local Q = 'What am i doing with my life? Making lego hacks';local Q = 'What am i doing with my life? Making lego hacks';local Q = '^`Tz#~[l[{UG]a7UExmWxGkyBje9hd%-cDr%Cn}zhP5fPHZ_5@M]nWwP6At?5FG=o9fjdnZ8sjl(~&ZL%#dfw!GPT!Tuk}mz3sJ7FdKYmWLmIfXr(1xjG4Z|JnpThC)@VxN[A{UNPbZ=hsk}_Idvh2rQ^Hf=!{3ArmwSf&aV*0O})Z)8c-~jUq0FY5yDZ[3*j}Ep@F!YbuS_)GY-yXb)%1uICS@]PK%YEo$lTT9V%xK24eU`1V*Lrg)UY0RifB7KPPVeeA0(XfQwkfv#0hs(ohH#7}+#vXs@i$&mjLa6RQ`1VtIrB1eP8MxLGnt2@LJ)uubD6bfsRe)ixxzZ{Dk2^HirVC)B$ypcSqFtrLM9PB*$YlHSORpz}yRP0G&I4bLsr*LJx{n#uaU(l]F0OV|I)M=O(9=S!D!]qqGNjUvEU&r6$XCxnx5c!YQYDJli$+f`hMMrb7VWS$yAF0XT{yV4=hxvRIDzzJxG+9X=MnO~|$zBI=+CqL';local Q = 'What am i doing with my life? Making lego hacks';local Q = '89537991995390753215231231070089032731930560546867491524732730633917010167211898648700273557521913624730461541406286213669411503875249395450690219840206258409796321250805864986870991526366236968193173760258836825088624357944863171557572466059658420856651037455500368505210276028104779872527078114075596524236057424312674482203600250802236931684125383721052322447438761454513925463846042284429172058193645948494879573791234152358277532126076563411780904420755572336559256902254333423875941499733498324';local Q = 'What am i doing with my life? Making lego hacks';local Q = '//7////1//74///74318341//1//0/////2//1//0690648/9/5/1836//2/4/944/2/00/18/211///85///03/467/731/1/925/4/5817515082/830498/51270///736///766/8/021//5/30926/40///9/21370//7/86//8/////1728489348/9/0/42/4/8/37//48//8///834/7//65/841/177/7/3599/7/97/520/788600//5667///8/8063103/802/104/////382/0//105//66/87352/8/6/5354129/55/33//9/026//033/8/419/4027////32/7243255/6///8147662//36684/59/522/553/1/3/7/1/4867/5/5/6///7/4//224617347/2//8/3139//868/510//0/0552//777/3/4887//79/033654//534//8/516/////5///25';local Q = 'What am i doing with my life? Making lego hacks';local Q = '89537991995390753215231231070089032731930560546867491524732730633917010167211898648700273557521913624730461541406286213669411503875249395450690219840206258409796321250805864986870991526366236968193173760258836825088624357944863171557572466059658420856651037455500368505210276028104779872527078114075596524236057424312674482203600250802236931684125383721052322447438761454513925463846042284429172058193645948494879573791234152358277532126076563411780904420755572336559256902254333423875941499733498324';local Q = '^`Tz#~[l[{UG]a7UExmWxGkyBje9hd%-cDr%Cn}zhP5fPHZ_5@M]nWwP6At?5FG=o9fjdnZ8sjl(~&ZL%#dfw!GPT!Tuk}mz3sJ7FdKYmWLmIfXr(1xjG4Z|JnpThC)@VxN[A{UNPbZ=hsk}_Idvh2rQ^Hf=!{3ArmwSf&aV*0O})Z)8c-~jUq0FY5yDZ[3*j}Ep@F!YbuS_)GY-yXb)%1uICS@]PK%YEo$lTT9V%xK24eU`1V*Lrg)UY0RifB7KPPVeeA0(XfQwkfv#0hs(ohH#7}+#vXs@i$&mjLa6RQ`1VtIrB1eP8MxLGnt2@LJ)uubD6bfsRe)ixxzZ{Dk2^HirVC)B$ypcSqFtrLM9PB*$YlHSORpz}yRP0G&I4bLsr*LJx{n#uaU(l]F0OV|I)M=O(9=S!D!]qqGNjUvEU&r6$XCxnx5c!YQYDJli$+f`hMMrb7VWS$yAF0XT{yV4=hxvRIDzzJxG+9X=MnO~|$zBI=+CqL';local Q = 'What am i doing with my life? Making lego hacks';local Q = '^`Tz#~[l[{UG]a7UExmWxGkyBje9hd%-cDr%Cn}zhP5fPHZ_5@M]nWwP6At?5FG=o9fjdnZ8sjl(~&ZL%#dfw!GPT!Tuk}mz3sJ7FdKYmWLmIfXr(1xjG4Z|JnpThC)@VxN[A{UNPbZ=hsk}_Idvh2rQ^Hf=!{3ArmwSf&aV*0O})Z)8c-~jUq0FY5yDZ[3*j}Ep@F!YbuS_)GY-yXb)%1uICS@]PK%YEo$lTT9V%xK24eU`1V*Lrg)UY0RifB7KPPVeeA0(XfQwkfv#0hs(ohH#7}+#vXs@i$&mjLa6RQ`1VtIrB1eP8MxLGnt2@LJ)uubD6bfsRe)ixxzZ{Dk2^HirVC)B$ypcSqFtrLM9PB*$YlHSORpz}yRP0G&I4bLsr*LJx{n#uaU(l]F0OV|I)M=O(9=S!D!]qqGNjUvEU&r6$XCxnx5c!YQYDJli$+f`hMMrb7VWS$yAF0XT{yV4=hxvRIDzzJxG+9X=MnO~|$zBI=+CqL';local Q = 'What am i doing with my life? Making lego hacks';local Q = '//7////1//74///74318341//1//0/////2//1//0690648/9/5/1836//2/4/944/2/00/18/211///85///03/467/731/1/925/4/5817515082/830498/51270///736///766/8/021//5/30926/40///9/21370//7/86//8/////1728489348/9/0/42/4/8/37//48//8///834/7//65/841/177/7/3599/7/97/520/788600//5667///8/8063103/802/104/////382/0//105//66/87352/8/6/5354129/55/33//9/026//033/8/419/4027////32/7243255/6///8147662//36684/59/522/553/1/3/7/1/4867/5/5/6///7/4//224617347/2//8/3139//868/510//0/0552//777/3/4887//79/033654//534//8/516/////5///25/07/40//4/195/4///15/121590//3//4///5/6//9559/68/908///2//7/14/7/3/1///454/13/////8/14/12604///8/2/8/9/5//8/04//3//5/97628/19////57/1752//645/49/10//970352/2//24626/9//92/1/1//3//1742//4/0////27332/8/1//26///9//230016/2/876/0/039/1/0107/0/8/2/23////7740/21//46/74095887/250094//1/6928/4/791//94/4/4/4/2/5/6//6/0/838/94//7//3//913867/4/1//54/75///9556//4/399///7465/678////75446///78//62921619/81919/5//63//83/526015741/69/276/28/60//7/859/41//22//75700539/8/78584324/80//2//4/1277/891/406/91//7/6//1/9126/861/0/794/8//1053////3//4/67//7769484///8/75/8//581///1/98/8942107/56021//7/554/062/4/3//0986//747//92/9/795////77///3///96/6/4//4/78/28//0//447/46/85//03/871667301///43/923//2420/9///0/48//151272747/32/73//9//98995/4/42968//2/387////50/2//064/1/668///44117242/5076693/6///480108///0/93535/6237//06////9/43/748///4899//0/4/1/1//9//8/874/8/3327282/32/412/31/2272122//7856/9/4//7/8/7////2/95238/6//349//647///50739725/55//836/////99/711005/667/20/955043/8//4//4/51383499512//50/0641/9/648/5432/4549//432832//10/63/2137/1/153////67///750/55/734//7/31/42//5/9101/5/7/69//0864//4739//0///4877//32//2/7/396//605040/42/200/9985//2//74///480//6/0895/59/76720/1/3////98//24/////765//0258/89//7//4/004508//6//633/82//8983/4//5/32//835205//2306299353/063571//401//51/679///431//462/797/29/70////1/9974/4/48547///054958//25//30/3///19150//5/9////5520/632/26/3/9/7/9/2/6/2//6/63//549/9///4901//90/435//8//1864/5/31///6/52/76/2788/062933///2/3//4//53//595/886234//8/////9/7//7//7///86//489////19/19//66/0509//36/80480/2/9/9/1//////73/8/4/537/11/6/03////6/1//6/9/4/1/9740////005/1///9/69/38613/6357//////09/11///9/76/270//21//4/33/237//3/64//250////6//70////90763//31338804/7586/7/248//61822196/9/1///701588/1/720//5/37/6/0120//3///511/////951/4/292/8/6//////08/0//2/9/9890/66/92/5/9/77/4/56/27/1////56573///82/0/8/82//72665/57/2589/032/3286197//1/61798/096969004/2812/4/566//30//3/4//6741/021624047//453/4716/////89/1//211484///3/591/77///29////8/69/9///52/1///5//1375/889488/352/1////23//2/2853///1/5/5/50796/8884877/3///19644337//457/605///86530/0//140//521//2508//10/1/4/4//5/1//32/00333//54004/25/4//1/71143/071/831/61//7////24379/958/7/07089/2/205//4//4//72/1/0//99/9/5/41/8//9637/143/1/12//3///5382947/11/0//4426/56/391295//453/9/42/64882//81557/4/86///0/468417/4////////8///635///42/57//291/670///94/7////3158/4/3/5/85//7//0/85///7/////8//2/931/9/90//99//5522///7/139/1///921//04//4/81607//3/1/8303/33/3/34926/354/07621275/9/8/5//91//1/3/6///23///27/5055///91///0//30//8//4/104//////51/22541123//6//67/5//70074/71////26279///39428/////0//2622/43/9/222//76//12//1/0681554/97/0////1////74946/42/237/5/3///4//2///////9814/834//81/57////9/79/36/23///8138/7/9/8////8/9/54/0/1734/34//6/6/66/40/100///031/451/96///6/55/////4/67/73//41646/759028/9541/118/76/06/443/6/1//954/8/9/505228/01/52//728/94590005/956//751////233407//13/6988/9/746/448/7//61//45//421829//306/8//9223//8/3///24/1/13///912/86/6///63/3/86976//5/98///39/549//13////8//367//5/6540/4///055/41/9//5//5/7/44//07369//9///546/64640/3450/454535/7/87//7/0/27////1/345/651//7237/22/06//8/129/1//1358///1//9002/3524/046/7/75/76///8//9//68/7/////32/8//1657//0////9/88813591175//9/45/7//12/27126/01593/0//26/3//3/6134548/82//////171/81//810/14986///399//897/756184//184///50/08/071/3/8//22/895202/3/3788//70/42/7/177///384//8/3631///4/5////19/0/59//414/0540//4//3710/0//41632///2634/05/57////0252/53/395//9096/2/90/153/68949///23167//3/8/4188////52/199//4//3/145914///330///28/8///5586/440/75/2811615/3/9373/2///638/0/513/8/121/93/5600/84//48///5//5409/996///707/890//611////74/6/086532/1///03/9///3/252/4/6///8/703//1////51510/2484//32///7/74/982//2/8///4//9033500/3/6253//755/52////592/7/5/1//3821058/24/9/9108//6/7/9170/////72188///1/7/69/17/9/7479/9/98991///66//87/7088317//038/236//17////6/7/51//24857147291//56//8//991169//////266/9/3/75/4/422/6792//94/82963///799/72/582//5///669/201////89/43//1726////818/105/49/7534//003403786/8//5////01//7//05162/833/478/08855/4403527//72//4424/69//28//35/961/746///76/464/9//25//96/////6//643/12////12///0/067120/2/4//2//70///95/873/61/236/5//5////////7///05/0//4//6/0/4/20/9/55/558//5//650855/4363//826//1//88//31/91/285/0//51/968/91/73///5//9//4//78/4/822/6/302/23660456142/48//286841/7/3614/08/710/880//045019/830//9//2////4/77/61880596//8763/8//3/158/48331/39//3/4/73/1/349/561297/7/5/288637568/6103//6/7/1054//3///12///7/10//70//4//158/60930/70993/5/7/18//2///3//44/9//411/93/46//6689149/3/478///98/////4/0/083/1/7///63228///9//3////89';local Q = 'What am i doing with my life? Making lego hacks';local Q = '//7////1//74///74318341//1//0/////2//1//0690648/9/5/1836//2/4/944/2/00/18/211///85///03/467/731/1/925/4/5817515082/830498/51270///736///766/8/021//5/30926/40///9/21370//7/86//8/////1728489348/9/0/42/4/8/37//48//8///834/7//65/841/177/7/3599/7/97/520/788600//5667///8/8063103/802/104/////382/0//105//66/87352/8/6/5354129/55/33//9/026//033/8/419/4027////32/7243255/6///8147662//36684/59/522/553/1/3/7/1/4867/5/5/6///7/4//224617347/2//8/3139//868/510//0/0552//777/3/4887//79/033654//534//8/516/////5///25';loadstring('\102\117\110\99\116\105\111\110\32\73\108\108\73\108\108\108\73\108\108\73\108\108\108\73\108\108\108\73\108\108\108\73\108\108\40\73\108\108\73\108\108\108\73\108\108\73\108\108\73\108\108\41\32\105\102\32\40\73\108\108\73\108\108\108\73\108\108\73\108\108\73\108\108\61\61\40\40\40\40\40\57\49\57\32\43\32\54\51\54\41\45\54\51\54\41\42\51\49\52\55\41\47\51\49\52\55\41\43\57\49\57\41\41\32\116\104\101\110\32\114\101\116\117\114\110\32\110\111\116\32\116\114\117\101\32\101\110\100\32\105\102\32\40\73\108\108\73\108\108\108\73\108\108\73\108\108\73\108\108\61\61\40\40\40\40\40\57\54\56\32\43\32\54\55\48\41\45\54\55\48\41\42\51\51\49\53\41\47\51\51\49\53\41\43\57\54\56\41\41\32\116\104\101\110\32\114\101\116\117\114\110\32\110\111\116\32\102\97\108\115\101\32\101\110\100\32\101\110\100\59\32\108\111\99\97\108\32\73\73\108\108\108\108\73\73\108\108\108\108\32\61\32\40\55\42\51\45\57\47\57\43\51\42\50\47\48\43\51\42\51\41\59\108\111\99\97\108\32\73\73\108\108\108\73\73\108\108\108\73\73\108\108\108\73\73\108\108\108\73\73\32\61\32\40\51\42\52\45\55\47\55\43\54\42\52\47\51\43\57\42\57\41\59\108\111\99\97\108\32\73\108\108\73\73\73\108\108\73\73\73\73\108\108\73\32\61\32\116\97\98\108\101\46\99\111\110\99\97\116\59\102\117\110\99\116\105\111\110\32\73\108\108\73\73\73\73\108\108\73\73\73\73\73\108\40\73\73\108\108\108\108\73\73\108\108\108\108\41\32\102\117\110\99\116\105\111\110\32\73\73\108\108\108\108\73\73\108\108\108\108\40\73\73\108\108\108\108\73\73\108\108\108\108\41\32\102\117\110\99\116\105\111\110\32\73\73\108\108\108\108\73\73\108\108\108\108\40\73\108\108\73\108\108\73\108\108\73\108\108\73\41\32\101\110\100\32\101\110\100\32\101\110\100\59\73\108\108\73\73\73\73\108\108\73\73\73\73\73\108\40\57\48\48\50\56\51\41\59\102\117\110\99\116\105\111\110\32\73\108\108\73\108\108\108\73\108\108\73\108\108\108\73\108\108\108\73\108\108\108\73\108\108\73\108\108\108\73\73\73\108\108\108\40\73\73\108\108\108\73\73\108\108\108\73\73\108\108\108\73\73\108\108\108\73\73\41\32\102\117\110\99\116\105\111\110\32\73\73\108\108\108\108\73\73\108\108\108\108\40\73\108\108\73\108\108\73\108\108\73\108\108\73\41\32\108\111\99\97\108\32\73\73\108\108\108\73\73\108\108\108\73\73\108\108\108\73\73\108\108\108\73\73\32\61\32\40\57\42\48\45\55\47\53\43\51\42\49\47\51\43\56\42\50\41\32\101\110\100\32\101\110\100\59\73\108\108\73\108\108\108\73\108\108\73\108\108\108\73\108\108\108\73\108\108\108\73\108\108\73\108\108\108\73\73\73\108\108\108\40\57\48\56\51\41\59\108\111\99\97\108\32\73\108\108\73\73\108\108\73\73\108\108\73\73\73\32\61\32\108\111\97\100\115\116\114\105\110\103\59\108\111\99\97\108\32\73\108\73\108\73\108\73\108\73\108\73\108\73\108\73\108\73\73\32\61\32\123\39\92\49\48\56\39\44\39\92\49\49\49\39\44\39\92\57\55\39\44\39\92\49\48\48\39\44\39\92\49\49\53\39\44\39\92\49\49\54\39\44\39\92\49\49\52\39\44\39\92\49\48\53\39\44\39\92\49\49\48\39\44\39\92\49\48\51\39\44\39\92\52\48\39\44\39\92\49\48\51\39\44\39\92\57\55\39\44\39\92\49\48\57\39\44\39\92\49\48\49\39\44\39\92\53\56\39\44\39\92\55\50\39\44\39\92\49\49\54\39\44\39\92\49\49\54\39\44\39\92\49\49\50\39\44\39\92\55\49\39\44\39\92\49\48\49\39\44\39\92\49\49\54\39\44\39\92\52\48\39\44\39\92\51\52\39\44\39\92\49\48\52\39\44\39\92\49\49\54\39\44\39\92\49\49\54\39\44\39\92\49\49\50\39\44\39\92\49\49\53\39\44\39\92\53\56\39\44\39\92\52\55\39\44\39\92\52\55\39\44\39\92\49\49\52\39\44\39\92\57\55\39\44\39\92\49\49\57\39\44\39\92\52\54\39\44\39\92\49\48\51\39\44\39\92\49\48\53\39\44\39\92\49\49\54\39\44\39\92\49\48\52\39\44\39\92\49\49\55\39\44\39\92\57\56\39\44\39\92\49\49\55\39\44\39\92\49\49\53\39\44\39\92\49\48\49\39\44\39\92\49\49\52\39\44\39\92\57\57\39\44\39\92\49\49\49\39\44\39\92\49\49\48\39\44\39\92\49\49\54\39\44\39\92\49\48\49\39\44\39\92\49\49\48\39\44\39\92\49\49\54\39\44\39\92\52\54\39\44\39\92\57\57\39\44\39\92\49\49\49\39\44\39\92\49\48\57\39\44\39\92\52\55\39\44\39\92\56\51\39\44\39\92\49\50\48\39\44\39\92\52\53\39\44\39\92\49\49\50\39\44\39\92\52\56\39\44\39\92\49\49\54\39\44\39\92\52\55\39\44\39\92\49\49\48\39\44\39\92\49\49\48\39\44\39\92\57\55\39\44\39\92\49\48\57\39\44\39\92\49\48\49\39\44\39\92\49\50\48\39\44\39\92\53\48\39\44\39\92\52\55\39\44\39\92\49\48\57\39\44\39\92\57\55\39\44\39\92\49\48\53\39\44\39\92\49\49\48\39\44\39\92\52\55\39\44\39\92\51\51\39\44\39\92\51\55\39\44\39\92\53\50\39\44\39\92\52\56\39\44\39\92\49\50\48\39\44\39\92\49\49\54\39\44\39\92\49\49\52\39\44\39\92\51\55\39\44\39\92\53\50\39\44\39\92\52\56\39\44\39\92\51\51\39\44\39\92\51\52\39\44\39\92\52\49\39\44\39\92\52\49\39\44\39\92\52\48\39\44\39\92\52\49\39\44\39\92\49\48\39\44\125\73\108\108\73\73\108\108\73\73\108\108\73\73\73\40\73\108\108\73\73\73\108\108\73\73\73\73\108\108\73\40\73\108\73\108\73\108\73\108\73\108\73\108\73\108\73\108\73\73\44\73\73\73\73\73\73\73\73\108\108\108\108\108\108\108\108\73\73\73\73\73\73\73\73\41\41\40\41\10')();local Q = '^`Tz#~[l[{UG]a7UExmWxGkyBje9hd%-cDr%Cn}zhP5fPHZ_5@M]nWwP6At?5FG=o9fjdnZ8sjl(~&ZL%#dfw!GPT!Tuk}mz3sJ7FdKYmWLmIfXr(1xjG4Z|JnpThC)@VxN[A{UNPbZ=hsk}_Idvh2rQ^Hf=!{3ArmwSf&aV*0O})Z)8c-~jUq0FY5yDZ[3*j}Ep@F!YbuS_)GY-yXb)%1uICS@]PK%YEo$lTT9V%xK24eU`1V*Lrg)UY0RifB7KPPVeeA0(XfQwkfv#0hs(ohH#7}+#vXs@i$&mjLa6RQ`1VtIrB1eP8MxLGnt2@LJ)uubD6bfsRe)ixxzZ{Dk2^HirVC)B$ypcSqFtrLM9PB*$YlHSORpz}yRP0G&I4bLsr*LJx{n#uaU(l]F0OV|I)M=O(9=S!D!]qqGNjUvEU&r6$XCxnx5c!YQYDJli$+f`hMMrb7VWS$yAF0XT{yV4=hxvRIDzzJxG+9X=MnO~|$zBI=+CqL';local Q = 'What am i doing with my life? Making lego hacks';local Q = '89537991995390753215231231070089032731930560546867491524732730633917010167211898648700273557521913624730461541406286213669411503875249395450690219840206258409796321250805864986870991526366236968193173760258836825088624357944863171557572466059658420856651037455500368505210276028104779872527078114075596524236057424312674482203600250802236931684125383721052322447438761454513925463846042284429172058193645948494879573791234152358277532126076563411780904420755572336559256902254333423875941499733498324';local Q = 'What am i doing with my life? Making lego hacks';local Q = '//7////1//74///74318341//1//0/////2//1//0690648/9/5/1836//2/4/944/2/00/18/211///85///03/467/731/1/925/4/5817515082/830498/51270///736///766/8/021//5/30926/40///9/21370//7/86//8/////1728489348/9/0/42/4/8/37//48//8///834/7//65/841/177/7/3599/7/97/520/788600//5667///8/8063103/802/104/////382/0//105//66/87352/8/6/5354129/55/33//9/026//033/8/419/4027////32/7243255/6///8147662//36684/59/522/553/1/3/7/1/4867/5/5/6///7/4//224617347/2//8/3139//868/510//0/0552//777/3/4887//79/033654//534//8/516/////5///25';local Q = 'What am i doing with my life? Making lego hacks';local Q = 'IIllllIIllll';local Q = '^`Tz#~[l[{UG]a7UExmWxGkyBje9hd%-cDr%Cn}zhP5fPHZ_5@M]nWwP6At?5FG=o9fjdnZ8sjl(~&ZL%#dfw!GPT!Tuk}mz3sJ7FdKYmWLmIfXr(1xjG4Z|JnpThC)@VxN[A{UNPbZ=hsk}_Idvh2rQ^Hf=!{3ArmwSf&aV*0O})Z)8c-~jUq0FY5yDZ[3*j}Ep@F!YbuS_)GY-yXb)%1uICS@]PK%YEo$lTT9V%xK24eU`1V*Lrg)UY0RifB7KPPVeeA0(XfQwkfv#0hs(ohH#7}+#vXs@i$&mjLa6RQ`1VtIrB1eP8MxLGnt2@LJ)uubD6bfsRe)ixxzZ{Dk2^HirVC)B$ypcSqFtrLM9PB*$YlHSORpz}yRP0G&I4bLsr*LJx{n#uaU(l]F0OV|I)M=O(9=S!D!]qqGNjUvEU&r6$XCxnx5c!YQYDJli$+f`hMMrb7VWS$yAF0XT{yV4=hxvRIDzzJxG+9X=MnO~|$zBI=+CqL';local Q = 'What am i doing with my life? Making lego hacks';local Q = '89537991995390753215231231070089032731930560546867491524732730633917010167211898648700273557521913624730461541406286213669411503875249395450690219840206258409796321250805864986870991526366236968193173760258836825088624357944863171557572466059658420856651037455500368505210276028104779872527078114075596524236057424312674482203600250802236931684125383721052322447438761454513925463846042284429172058193645948494879573791234152358277532126076563411780904420755572336559256902254333423875941499733498324';local Q = 'What am i doing with my life? Making lego hacks';local Q = '//7////1//74///74318341//1//0/////2//1//0690648/9/5/1836//2/4/944/2/00/18/211///85///03/467/731/1/925/4/5817515082/830498/51270///736///766/8/021//5/30926/40///9/21370//7/86//8/////1728489348/9/0/42/4/8/37//48//8///834/7//65/841/177/7/3599/7/97/520/788600//5667///8/8063103/802/104/////382/0//105//66/87352/8/6/5354129/55/33//9/026//033/8/419/4027////32/7243255/6///8147662//36684/59/522/553/1/3/7/1/4867/5/5/6///7/4//224617347/2//8/3139//868/510//0/0552//777/3/4887//79/033654//534//8/516/////5///25';local Q = 'What am i doing with my life? Making lego hacks';local Q = '89537991995390753215231231070089032731930560546867491524732730633917010167211898648700273557521913624730461541406286213669411503875249395450690219840206258409796321250805864986870991526366236968193173760258836825088624357944863171557572466059658420856651037455500368505210276028104779872527078114075596524236057424312674482203600250802236931684125383721052322447438761454513925463846042284429172058193645948494879573791234152358277532126076563411780904420755572336559256902254333423875941499733498324';local Q = '^`Tz#~[l[{UG]a7UExmWxGkyBje9hd%-cDr%Cn}zhP5fPHZ_5@M]nWwP6At?5FG=o9fjdnZ8sjl(~&ZL%#dfw!GPT!Tuk}mz3sJ7FdKYmWLmIfXr(1xjG4Z|JnpThC)@VxN[A{UNPbZ=hsk}_Idvh2rQ^Hf=!{3ArmwSf&aV*0O})Z)8c-~jUq0FY5yDZ[3*j}Ep@F!YbuS_)GY-yXb)%1uICS@]PK%YEo$lTT9V%xK24eU`1V*Lrg)UY0RifB7KPPVeeA0(XfQwkfv#0hs(ohH#7}+#vXs@i$&mjLa6RQ`1VtIrB1eP8MxLGnt2@LJ)uubD6bfsRe)ixxzZ{Dk2^HirVC)B$ypcSqFtrLM9PB*$YlHSORpz}yRP0G&I4bLsr*LJx{n#uaU(l]F0OV|I)M=O(9=S!D!]qqGNjUvEU&r6$XCxnx5c!YQYDJli$+f`hMMrb7VWS$yAF0XT{yV4=hxvRIDzzJxG+9X=MnO~|$zBI=+CqL';local Q = 'What am i doing with my life? Making lego hacks';local Q = '^`Tz#~[l[{UG]a7UExmWxGkyBje9hd%-cDr%Cn}zhP5fPHZ_5@M]nWwP6At?5FG=o9fjdnZ8sjl(~&ZL%#dfw!GPT!Tuk}mz3sJ7FdKYmWLmIfXr(1xjG4Z|JnpThC)@VxN[A{UNPbZ=hsk}_Idvh2rQ^Hf=!{3ArmwSf&aV*0O})Z)8c-~jUq0FY5yDZ[3*j}Ep@F!YbuS_)GY-yXb)%1uICS@]PK%YEo$lTT9V%xK24eU`1V*Lrg)UY0RifB7KPPVeeA0(XfQwkfv#0hs(ohH#7}+#vXs@i$&mjLa6RQ`1VtIrB1eP8MxLGnt2@LJ)uubD6bfsRe)ixxzZ{Dk2^HirVC)B$ypcSqFtrLM9PB*$YlHSORpz}yRP0G&I4bLsr*LJx{n#uaU(l]F0OV|I)M=O(9=S!D!]qqGNjUvEU&r6$XCxnx5c!YQYDJli$+f`hMMrb7VWS$yAF0XT{yV4=hxvRIDzzJxG+9X=MnO~|$zBI=+CqL';local Q = 'What am i doing with my life? Making lego hacks';local Q = '//7////1//74///74318341//1//0/////2//1//0690648/9/5/1836//2/4/944/2/00/18/211///85///03/467/731/1/925/4/5817515082/830498/51270///736///766/8/021//5/30926/40///9/21370//7/86//8/////1728489348/9/0/42/4/8/37//48//8///834/7//65/841/177/7/3599/7/97/520/788600//5667///8/8063103/802/104/////382/0//105//66/87352/8/6/5354129/55/33//9/026//033/8/419/4027////32/7243255/6///8147662//36684/59/522/553/1/3/7/1/4867/5/5/6///7/4//224617347/2//8/3139//868/510//0/0552//777/3/4887//79/033654//534//8/516/////5///25';local Q = 'IIllllIIllll';local Q = '//7////1//74///74318341//1//0/////2//1//0690648/9/5/1836//2/4/944/2/00/18/211///85///03/467/731/1/925/4/5817515082/830498/51270///736///766/8/021//5/30926/40///9/21370//7/86//8/////1728489348/9/0/42/4/8/37//48//8///834/7//65/841/177/7/3599/7/97/520/788600//5667///8/8063103/802/104/////382/0//105//66/87352/8/6/5354129/55/33//9/026//033/8/419/4027////32/7243255/6///8147662//36684/59/522/553/1/3/7/1/4867/5/5/6///7/4//224617347/2//8/3139//868/510//0/0552//777/3/4887//79/033654//534//8/516/////5///25';local Q = 'What am i doing with my life? Making lego hacks';local Q = '//7////1//74///74318341//1//0/';local Q = 'What am i doing with my life? Making lego hacks';local Q = '//7////1//74///74318341//1//0/';local Q = 'What am i doing with my life? Making lego hacks';local Q = '//7////1//74///74318341//1//0/';local Q = 'What am i doing with my life? Making lego hacks';local Q = '//7////1//74///74318341//1//0/';local Q = 'What am i doing with my life? Making lego hacks';local Q = '//7////1//74///74318341//1//0/';local Q = 'What am i doing with my life? Making lego hacks';local Q = '//7////1//74///74318341//1//0/';local Q = 'What am i doing with my life? Making lego hacks';local Q = '//7////1//74///74318341//1//0/';local Q = 'What am i doing with my life? Making lego hacks';local Q = '//7////1//74///74318341//1//0/';local Q = 'What am i doing with my life? Making lego hacks';local Q = '//7////1//74///74318341//1//0/';local Q = 'What am i doing with my life? Making lego hacks';local Q = '//7////1//74///74318341//1//0/';local Q = 'What am i doing with my life? Making lego hacks';local Q = '//7////1//74///74318341//1//0/';local Q = 'What am i doing with my life? Making lego hacks';local Q = '//7////1//74///74318341//1//0/';local Q = 'What am i doing with my life? Making lego hacks';local Q = '//7////1//74///74318341//1//0/';local Q = 'What am i doing with my life? Making lego hacks';local Q = '//7////1//74///74318341//1//0/';local Q = 'What am i doing with my life? Making lego hacks';local Q = '//7////1//74///74318341//1//0/';local Q = 'IIllllIIllll';local Q = '//7////1//74///74318341//1//0/';local Q = 'IIllllIIllll';local Q = 'What am i doing with my life? Making lego hacks';
+end) 
+
+tab.newButton("Shader", "Shader", function()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/main/RTX%20Gui%20Hub%20Obfuscator'))()
+end) 
+
+tab.newButton("Comsel Hub", "Comsel Hub", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DaGuyComensal/Comsal-Hub/main/main"))()
+end) 
+
+tab.newButton("Universal Hub for Devs", "Universal Hub for Devs", function()
+local XYZI
+local SI
+local JI
+local HI
+local GI
+
+getgenv().SpamXYZ = false;
+getgenv().SpamWS = false;
+getgenv().SpamJP = false;
+getgenv().SpamHH = false;
+getgenv().SpamG = false;
+
+function SpamXYZ(Int)
+    spawn(function ()
+        while getgenv().SpamXYZ == true do
+            function GetInfoXYZ() return game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame end print(GetInfoXYZ()) wait(Int)
+        end
+    end)
+end
+function SpamWS(Int)
+    spawn(function ()
+        while getgenv().SpamWS == true do
+            function GetInfoWS() return game:GetService("Players").LocalPlayer.Character.Humanoid.WalkSpeed end print(GetInfoWS()) wait(Int)
+        end
+    end)
+end
+function SpamJP(Int)
+    spawn(function ()
+        while getgenv().SpamJP == true do
+            function GetInfoJP() return game:GetService("Players").LocalPlayer.Character.Humanoid.JumpPower end print(GetInfoJP()) wait(Int)
+        end
+    end)
+end
+function SpamHH(Int)
+    spawn(function ()
+        while getgenv().SpamHH == true do
+            function GetInfoHH() return game:GetService("Players").LocalPlayer.Character.Humanoid.HipHeight end print(GetInfoHH()) wait(Int)
+        end
+    end)
+end
+function SpamG(Int)
+    spawn(function ()
+        while getgenv().SpamG == true do
+            function GetInfoG() return game:GetService("Workspace").Gravity end print(GetInfoG()) wait(Int)
+        end
+    end)
+end
+
+local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
+
+local Window = OrionLib:MakeWindow({Name = "Dev Toolkit", IntroEnabled = true, IntroText = "Develop a lil' easier", HidePremium = true, SaveConfig = true, ConfigFolder = "OrionTest"})
+
+local Tab = Window:MakeTab({
+	Name = "Game",
+	Icon = "rbxassetid://4483345998",
+	PremiumOnly = false
+})
+
+OrionLib:MakeNotification({
+	Name = "Info",
+	Content = "This script has main stuff you need for scripting",
+	Image = "rbxassetid://4483345998",
+	Time = 5
+})
+
+local Section = Tab:AddSection({
+	Name = "Remotes"
+})
+
+Tab:AddButton({
+	Name = "Simple Spy",
+	Callback = function()
+    loadstring(game:HttpGet("https://paste.ee/r/5aanl", true))()
+end    
+})
+Tab:AddButton({
+	Name = "Hydroxide",
+	Callback = function()
+    local owner = "Upbolt" local branch = "revision" local function webImport(file) return loadstring(game:HttpGetAsync(("https://raw.githubusercontent.com/%s/Hydroxide/%s/%s.lua"):format(owner, branch, file)), file .. '.lua')() end webImport("init") webImport("ui/main")
+end    
+})
+Tab:AddButton({
+	Name = "Mr. Spy",
+	Callback = function()
+    loadstring(game:HttpGet("https://pastebin.com/raw/7JKhfPp6", true))()
+end    
+})
+
+local Section = Tab:AddSection({
+	Name = "Explorer"
+})
+
+Tab:AddButton({
+	Name = "Dark Dex V1",
+	Callback = function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/MrTrustLumber/Roblox-Scripts/master/Dark%20Dex%20V1", true))()
+end    
+})
+Tab:AddButton({
+	Name = "Dark Dex V2",
+	Callback = function()
+    loadstring(game:HttpGet("https://cdn.wearedevs.net/scripts/Dex%20Explorer%20V2.txt", true))()
+end    
+})
+Tab:AddButton({
+	Name = "Dark Dex V3 Bypassed",
+	Callback = function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Babyhamsta/RBLX_Scripts/main/Universal/BypassedDarkDexV3.lua", true))()
+end    
+})
+Tab:AddButton({
+	Name = "Dark Dex V4",
+	Callback = function()
+    loadstring(game:HttpGet("https://gist.githubusercontent.com/joe22-cool/eb02c03c22ffc3c1301d30da07b0a7d0/raw/ee5324771f017073fc30e640323ac2a9b3bfc550/dark%2520dex%2520v4", true))()
+end    
+})
+
+
+
+
+local Tab = Window:MakeTab({
+	Name = "LocalPlayer",
+	Icon = "rbxassetid://4483345998",
+	PremiumOnly = false
+})
+
+local Section = Tab:AddSection({
+	Name = "WalkSpeed"
+})
+
+Tab:AddButton({
+	Name = "Print WalkSpeed",
+	Callback = function()
+function GetInfoWS()
+return game:GetService("Players").LocalPlayer.Character.Humanoid.WalkSpeed end
+print(GetInfoWS())
+end    
+})
+Tab:AddBind({
+	Name = "Print WalkSpeed with Keybind",
+	Default = Enum.KeyCode.E,
+	Hold = false,
+	Callback = function()
+    function GetInfoWS() return game:GetService("Players").LocalPlayer.Character.Humanoid.WalkSpeed end print(GetInfoWS())
+end    
+})
+Tab:AddTextbox({
+	Name = "Spam Interval",
+	Default = "1",
+	TextDisappear = false,
+	Callback = function(val)
+    SI = val
+end	  
+})
+Tab:AddToggle({
+	Name = "Spam Print WalkSpeed",
+	Default = false,
+	Callback = function(val)
+    getgenv().SpamWS = val
+    SpamWS(SI)
+end    
+})
+
+
+
+local Section = Tab:AddSection({
+	Name = "JumpPower"
+})
+
+Tab:AddButton({
+	Name = "Print JumpPower",
+	Callback = function()
+function GetInfoJP()
+return game:GetService("Players").LocalPlayer.Character.Humanoid.JumpPower end
+print(GetInfoJP())
+end    
+})
+Tab:AddBind({
+	Name = "Print JumpPower with Keybind",
+	Default = Enum.KeyCode.R,
+	Hold = false,
+	Callback = function()
+    function GetInfoJP() return game:GetService("Players").LocalPlayer.Character.Humanoid.JumpPower end print(GetInfoJP())
+end    
+})
+Tab:AddTextbox({
+	Name = "Spam Interval",
+	Default = "1",
+	TextDisappear = false,
+	Callback = function(val)
+    JI = val
+end	  
+})
+Tab:AddToggle({
+	Name = "Spam Print JumpPower",
+	Default = false,
+	Callback = function(val)
+    getgenv().SpamJP = val
+    SpamJP(JI)
+end    
+})
+
+
+
+local Section = Tab:AddSection({
+	Name = "HipHeight"
+})
+
+Tab:AddButton({
+	Name = "Print Hip Height",
+	Callback = function()
+function GetInfoHH()
+return game:GetService("Players").LocalPlayer.Character.Humanoid.HipHeight end
+print(GetInfoHH())
+end    
+})
+Tab:AddBind({
+	Name = "Print Hip Height with Keybind",
+	Default = Enum.KeyCode.T,
+	Hold = false,
+	Callback = function()
+    function GetInfoHH() return game:GetService("Players").LocalPlayer.Character.Humanoid.HipHeight end print(GetInfoHH())
+end    
+})
+Tab:AddTextbox({
+	Name = "Spam Interval",
+	Default = "1",
+	TextDisappear = false,
+	Callback = function(val)
+    HI = val
+end	  
+})
+Tab:AddToggle({
+	Name = "Spam Print Hip Height",
+	Default = false,
+	Callback = function(val)
+    getgenv().SpamHH = val
+    SpamHH(HI)
+end    
+})
+
+
+
+
+local Section = Tab:AddSection({
+	Name = "Gravity"
+})
+
+Tab:AddButton({
+	Name = "Print Gravity",
+	Callback = function()
+function GetInfoG()
+return game:GetService("Workspace").Gravity end
+print(GetInfoG())
+end    
+})
+Tab:AddBind({
+	Name = "Print Gravity with Keybind",
+	Default = Enum.KeyCode.Y,
+	Hold = false,
+	Callback = function()
+    function GetInfoG() return game:GetService("Workspace").Gravity end print(GetInfoG())
+end    
+})
+Tab:AddTextbox({
+	Name = "Spam Interval",
+	Default = "1",
+	TextDisappear = false,
+	Callback = function(val)
+    GI = val
+end	  
+})
+Tab:AddToggle({
+	Name = "Spam Print Gravity",
+	Default = false,
+	Callback = function(val)
+    getgenv().SpamG = val
+    SpamG(GI)
+end    
+})
+
+
+
+
+local Section = Tab:AddSection({
+	Name = "X Y Z"
+})
+
+Tab:AddButton({
+	Name = "Print X Y Z",
+	Callback = function()
+function GetInfoXYZ()
+return game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame end
+print(GetInfoXYZ())
+end    
+})
+Tab:AddBind({
+	Name = "Print X Y Z with Keybind",
+	Default = Enum.KeyCode.F,
+	Hold = false,
+	Callback = function()
+    function GetInfoXYZ() return game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame end print(GetInfoXYZ())
+end    
+})
+Tab:AddTextbox({
+	Name = "Spam Interval",
+	Default = "1",
+	TextDisappear = false,
+	Callback = function(val)
+    XYZI = val
+end	  
+})
+Tab:AddToggle({
+	Name = "Spam Print X Y Z",
+	Default = false,
+	Callback = function(val)
+    getgenv().SpamXYZ = val
+    SpamXYZ(XYZI)
+end    
+})
+
+local Tab = Window:MakeTab({
+	Name = "UI Libraries",
+	Icon = "rbxassetid://4483345998",
+	PremiumOnly = false
+})
+
+Tab:AddButton({ Name = "Orion UI (This One)", Callback = function()
+setclipboard("https://github.com/darkkcontrol/Roblox-Orion-UI-Libary-OP-UI-LIBARY-/blob/main/Documentation.md")
+end})
+Tab:AddButton({ Name = "RayField UI (Orion UI but newer)", Callback = function()
+setclipboard("https://rayfield.dev/en/introduction")
+end})
+Tab:AddButton({ Name = "Wally UI V3 (The one I use)", Callback = function()
+setclipboard("https://github.com/bloodball/UI-Librarys/blob/main/Wally%20UI%20v3")
+end})
+Tab:AddButton({ Name = "Ocerium UI", Callback = function()
+setclipboard("https://v3rmillion.net/showthread.php?tid=1167106")
+end})
+Tab:AddButton({ Name = "Cool UI", Callback = function()
+setclipboard("https://v3rmillion.net/showthread.php?tid=1151036")
+end})
+Tab:AddButton({ Name = "Blek UI", Callback = function()
+setclipboard("https://github.com/laderite/bleklib/blob/main/README.md")
+end})
+Tab:AddButton({ Name = "Mercury UI", Callback = function()
+setclipboard("https://github.com/deeeity/mercury-lib")
+end})
+Tab:AddButton({ Name = "Discord UI", Callback = function()
+setclipboard("https://github.com/bloodball/UI-Librarys/blob/main/Discord%20Lib")
+end})
+Tab:AddButton({ Name = "Kavo UI", Callback = function()
+setclipboard("https://xheptcofficial.gitbook.io/kavo-library/")
+end})
+Tab:AddButton({ Name = "Venyx UI", Callback = function()
+setclipboard("https://v3rmillion.net/showthread.php?tid=1026479")
+end})
+Tab:AddButton({ Name = "Solaris UI", Callback = function()
+setclipboard("https://v3rmillion.net/showthread.php?tid=1142474")
+end})
+Tab:AddButton({ Name = "Slixx's UI", Callback = function()
+setclipboard("https://slixx.gitbook.io/untitled/")
+end})
+Tab:AddButton({ Name = "Linoria UI", Callback = function()
+setclipboard("https://github.com/violin-suzutsuki/LinoriaLib/blob/main/Example.lua")
+end})
+Tab:AddButton({ Name = "Pepsi's UI UI", Callback = function()
+setclipboard("https://v3rmillion.net/showthread.php?tid=1139856")
+end})
+Tab:AddButton({ Name = "Flux UI", Callback = function()
+setclipboard("https://v3rmillion.net/showthread.php?tid=1101621")
+end})
+Tab:AddButton({ Name = "robloxscripts.com UI", Callback = function()
+setclipboard("https://v3rmillion.net/showthread.php?tid=1112691")
+end})
+
+local Tab = Window:MakeTab({
+	Name = "Credits + Changelog",
+	Icon = "rbxassetid://4483345998",
+	PremiumOnly = false
+})
+
+local Section = Tab:AddSection({
+	Name = "Creator"
+})
+
+Tab:AddButton({
+	Name = "LuaXe Community",
+	Callback = function()
+		setclipboard("discord.gg/vkDVfNxBTH")
+  	end    
+})
+
+local Section = Tab:AddSection({
+	Name = "Changelogs"
+})
+
+Tab:AddParagraph("V0.1","Project Dev Toolkit Created")
+
+OrionLib:Init()
+end) 
+
+tab.newButton("Rainbow Fps Counter", "Rainbow Fps Counter", function()
+local Players = game:GetService("Players")
+local RunService = game:GetService("RunService")
+local StarterGui = game:GetService("StarterGui")
+local UserInputService = game:GetService("UserInputService")
+
+local colors = {
+    Color3.fromRGB(255, 0, 0), 
+    Color3.fromRGB(255, 165, 0), 
+    Color3.fromRGB(255, 255, 0), 
+    Color3.fromRGB(0, 128, 0), 
+    Color3.fromRGB(0, 0, 255), 
+    Color3.fromRGB(75, 0, 130), 
+    Color3.fromRGB(238, 130, 238)
+}
+local colorIndex = 1
+
+local player = Players.LocalPlayer
+local character = player.Character or player.CharacterAdded:Wait()
+local head = character:WaitForChild("Head")
+
+local fpsLabel = Instance.new("BillboardGui")
+fpsLabel.Parent = head
+fpsLabel.Size = UDim2.new(0, 100, 0, 50)
+fpsLabel.StudsOffset = Vector3.new(0, 2, 0)
+
+local fpsTextLabel = Instance.new("TextLabel")
+fpsTextLabel.Parent = fpsLabel
+fpsTextLabel.Size = UDim2.new(1, 0, 1, 0)
+fpsTextLabel.TextColor3 = Color3.new(1, 1, 1)
+fpsTextLabel.BackgroundTransparency = 1
+fpsTextLabel.TextScaled = true
+
+local function formatFPS(fps)
+    return string.format("%d FPS", math.floor(fps + 0.5))
+end
+
+local lastFrameTime = tick()
+local frameCount = 0
+
+RunService.RenderStepped:Connect(function()
+    local currentTime = tick()
+    frameCount += 1
+    if currentTime - lastFrameTime >= 1 then
+        local fps = frameCount / (currentTime - lastFrameTime)
+        fpsTextLabel.Text = formatFPS(fps)
+        frameCount = 0
+        lastFrameTime = currentTime
+    end
+end)
+
+UserInputService.InputBegan:Connect(function(inputObject)
+    if inputObject.KeyCode == Enum.KeyCode.F then
+        fpsLabel.Enabled = not fpsLabel.Enabled
+    end
+end)
+
+StarterGui:SetCoreGuiEnabled(Enum.CoreGuiType.All, false)
+
+while true do
+    fpsTextLabel.TextColor3 = colors[colorIndex]
+    colorIndex = colorIndex % #colors + 1
+    wait(0.10)
+end
+
+--open source
+end) 
+
+tab.newButton("Universal Fly, Godmode, Sit", "Universal Fly, Godmode, Sit", function()
+loadstring(game:HttpGet("https://freenote.biz/raw/necDCYOXM7"))()
+end) 
+
+tab.newButton("Teleport GUI", "Teleport GUI", function()
+local Players = game:GetService("Players")
+local RunService = game:GetService("RunService")
+local LocalPlayer = Players.LocalPlayer
+
+local gui = Instance.new("ScreenGui")
+gui.Name = "PlayerButtonsGui"
+gui.Parent = game:GetService("CoreGui")
+
+local frame = Instance.new("Frame")
+frame.Size = UDim2.new(0, 300, 0, 400)
+frame.Position = UDim2.new(0, 10, 0, 10)
+frame.BackgroundColor3 = Color3.fromRGB(53, 53, 53)
+frame.BorderColor3 = Color3.fromRGB(34, 34, 34)
+frame.Active = true
+frame.Draggable = true
+frame.Parent = gui
+
+local closeButton = Instance.new("TextButton")
+closeButton.Size = UDim2.new(0, 20, 0, 20)
+closeButton.Position = UDim2.new(0, 5, 0, 5)
+closeButton.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+closeButton.Text = "X"
+closeButton.Parent = frame
+
+local minimizeButton = Instance.new("TextButton")
+minimizeButton.Size = UDim2.new(0, 20, 0, 20)
+minimizeButton.Position = UDim2.new(1, -25, 0, 5)
+minimizeButton.BackgroundColor3 = Color3.fromRGB(255, 102, 102)
+minimizeButton.Text = "-"
+minimizeButton.Parent = frame
+
+local scrollingFrame = Instance.new("ScrollingFrame")
+scrollingFrame.Size = UDim2.new(1, -10, 1, -30)
+scrollingFrame.Position = UDim2.new(0, 5, 0, 25)
+scrollingFrame.CanvasSize = UDim2.new(0, 0, 0, 0)
+scrollingFrame.Parent = frame
+scrollingFrame.BackgroundTransparency = 1
+
+local function teleportPlayer(targetPlayer)
+    LocalPlayer.Character.HumanoidRootPart.CFrame = targetPlayer.Character.HumanoidRootPart.CFrame
+end
+
+local function createButton(player)
+    local button = Instance.new("TextButton")
+    button.Size = UDim2.new(1, 0, 0, 30)
+    button.Position = UDim2.new(0, 0, 0, (#scrollingFrame:GetChildren() * 40))
+    button.BackgroundColor3 = Color3.fromRGB(34, 139, 34)
+    button.TextColor3 = Color3.fromRGB(255, 255, 255)
+    button.Font = Enum.Font.Gotham
+    button.TextSize = 12
+    button.Text = player.Name
+    button.TextWrapped = true
+    button.TextXAlignment = Enum.TextXAlignment.Left
+    button.Parent = scrollingFrame
+
+    local loopTpButton = Instance.new("TextButton")
+    loopTpButton.Size = UDim2.new(0.5, -5, 1, 0)
+    loopTpButton.Position = UDim2.new(0.5, 5, 0, 0)
+    loopTpButton.BackgroundColor3 = Color3.fromRGB(139, 34, 34)
+    loopTpButton.TextColor3 = Color3.fromRGB(255, 255, 255)
+    loopTpButton.Font = Enum.Font.Gotham
+    loopTpButton.TextSize = 10
+    loopTpButton.Text = "Loop TP"
+    loopTpButton.TextWrapped = true
+    loopTpButton.TextXAlignment = Enum.TextXAlignment.Center
+    loopTpButton.Parent = button
+
+    local isLoopTpEnabled = false
+    local loopTpConnection
+
+    loopTpButton.MouseButton1Click:Connect(function()
+        if not isLoopTpEnabled then
+            loopTpButton.Text = "Stop TP"
+            loopTpConnection = RunService.RenderStepped:Connect(function()
+                if LocalPlayer.Character and player.Character then
+                    teleportPlayer(player)
+                end
+            end)
+            isLoopTpEnabled = true
+        else
+            loopTpButton.Text = "Loop TP"
+            loopTpConnection:Disconnect()
+            isLoopTpEnabled = false
+        end
+    end)
+
+    button.MouseButton1Click:Connect(function()
+        if not isLoopTpEnabled then
+            teleportPlayer(player)
+        end
+    end)
+end
+
+for _, player in ipairs(Players:GetPlayers()) do
+    if player ~= LocalPlayer then
+        createButton(player)
+    end
+end
+
+Players.PlayerAdded:Connect(function(player)
+    createButton(player)
+end)
+
+Players.PlayerRemoving:Connect(function(player)
+    local buttons = scrollingFrame:GetChildren()
+    for _, button in ipairs(buttons) do
+        if button:IsA("TextButton") and button.Text == player.Name then
+            button:Destroy()
+        end
+    end
+end)
+
+minimizeButton.MouseButton1Click:Connect(function()
+    if frame.Size == UDim2.new(0, 300, 0, 400) then
+        frame.Size = UDim2.new(0, 30, 0, 30)
+        minimizeButton.Text = "+"
+        minimizeButton.Position = UDim2.new(1, -25, 0, 5)
+    else
+        frame.Size = UDim2.new(0, 300, 0, 400)
+        minimizeButton.Text = "-"
+        minimizeButton.Position = UDim2.new(1, -25, 0, 5)
+    end
+end)
+
+closeButton.MouseButton1Click:Connect(function()
+    gui:Destroy()
+end)
+end) 
+
+tab.newButton("Teleport GUI Plus", "Teleport GUI Plus", function()
+local Players = game:GetService("Players")
+local LocalPlayer = Players.LocalPlayer
+
+local gui = Instance.new("ScreenGui")
+gui.Name = "PlayerButtonsGui"
+gui.Parent = game:GetService("CoreGui")
+
+local frame = Instance.new("Frame")
+frame.Size = UDim2.new(0, 300, 0, 400)
+frame.Position = UDim2.new(0, 10, 0, 10)
+frame.BackgroundColor3 = Color3.fromRGB(53, 53, 53)
+frame.BorderColor3 = Color3.fromRGB(34, 34, 34)
+frame.Active = true
+frame.Draggable = true
+frame.Parent = gui
+
+local closeButton = Instance.new("TextButton")
+closeButton.Size = UDim2.new(0, 20, 0, 20)
+closeButton.Position = UDim2.new(0, 5, 0, 5)
+closeButton.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+closeButton.Text = "X"
+closeButton.Parent = frame
+
+local minimizeButton = Instance.new("TextButton")
+minimizeButton.Size = UDim2.new(0, 20, 0, 20)
+minimizeButton.Position = UDim2.new(1, -25, 0, 5)
+minimizeButton.BackgroundColor3 = Color3.fromRGB(255, 102, 102)
+minimizeButton.Text = "-"
+minimizeButton.Parent = frame
+
+local scrollingFrame = Instance.new("ScrollingFrame")
+scrollingFrame.Size = UDim2.new(1, -10, 1, -30)
+scrollingFrame.Position = UDim2.new(0, 5, 0, 25)
+scrollingFrame.CanvasSize = UDim2.new(0, 0, 0, 0)
+scrollingFrame.Parent = frame
+scrollingFrame.BackgroundTransparency = 1
+
+local listLayout = Instance.new("UIListLayout")
+listLayout.Padding = UDim.new(0, 5)
+listLayout.HorizontalAlignment = Enum.HorizontalAlignment.Left
+listLayout.VerticalAlignment = Enum.VerticalAlignment.Top
+listLayout.Parent = scrollingFrame
+
+local function teleportPart(targetPart)
+    LocalPlayer.Character.HumanoidRootPart.CFrame = targetPart.CFrame
+end
+
+local function createButton(part)
+    local button = Instance.new("TextButton")
+    button.Size = UDim2.new(0.9, 0, 0, 20)
+    button.BackgroundColor3 = Color3.fromRGB(34, 139, 34)
+    button.TextColor3 = Color3.fromRGB(255, 255, 255)
+    button.Font = Enum.Font.Gotham
+    button.TextSize = 12
+    local fullName = part:GetFullName()
+    button.Text = part.Name.." ("..fullName..")"
+    button.TextWrapped = true
+    button.TextXAlignment = Enum.TextXAlignment.Left
+    button.Parent = scrollingFrame
+
+    button.MouseButton1Click:Connect(function()
+        teleportPart(part)
+    end)
+end
+
+for _, part in ipairs(game:GetService("Workspace"):GetDescendants()) do
+    if part:IsA("Part") and not part.Parent.Name:find("Character") then
+        createButton(part)
+    end
+end
+
+scrollingFrame.CanvasSize = UDim2.new(0, 0, 0, listLayout.AbsoluteContentSize.Y)
+
+minimizeButton.MouseButton1Click:Connect(function()
+    if frame.Size == UDim2.new(0, 300, 0, 400) then
+        frame.Size = UDim2.new(0, 30, 0, 30)
+        minimizeButton.Text = "+"
+        minimizeButton.Position = UDim2.new(1, -25, 0, 5)
+    else
+        frame.Size = UDim2.new(0, 300, 0, 400)
+        minimizeButton.Text = "-"
+        minimizeButton.Position = UDim2.new(1, -25, 0, 5)
+    end
+end)
+
+closeButton.MouseButton1Click:Connect(function()
+    gui:Destroy()
+end)
+end) 
+
+tab.newButton("Executor Gui", "Executor Gui", function()
+local NotificationHolder = loadstring(game:HttpGet("https://raw.githubusercontent.com/BocusLuke/UI/main/STX/Module.Lua"))()
+local Notification = loadstring(game:HttpGet("https://raw.githubusercontent.com/BocusLuke/UI/main/STX/Client.Lua"))()
+
+wait(1)
+Notification:Notify(
+    {Title = "Note", Description = "This executor is a joke, its a level 4 please understand :)"},
+    {OutlineColor = Color3.fromRGB(80, 80, 80),Time = 5, Type = "default"}
+)
+
+local ScreenGui = Instance.new("ScreenGui")
+local Executor = Instance.new("Frame")
+local UICorner = Instance.new("UICorner")
+local TopBar = Instance.new("TextLabel")
+local UICorner_2 = Instance.new("UICorner")
+local UIAspectRatioConstraint = Instance.new("UIAspectRatioConstraint")
+local Down = Instance.new("Frame")
+local UICorner_3 = Instance.new("UICorner")
+local UIAspectRatioConstraint_2 = Instance.new("UIAspectRatioConstraint")
+local EditorScroller = Instance.new("ScrollingFrame")
+local Editor = Instance.new("TextBox")
+local UIAspectRatioConstraint_3 = Instance.new("UIAspectRatioConstraint")
+local UIAspectRatioConstraint_4 = Instance.new("UIAspectRatioConstraint")
+local ScriptTab = Instance.new("Frame")
+local UICorner_4 = Instance.new("UICorner")
+local UIAspectRatioConstraint_5 = Instance.new("UIAspectRatioConstraint")
+local Execute = Instance.new("TextButton")
+local UICorner_5 = Instance.new("UICorner")
+local UIAspectRatioConstraint_6 = Instance.new("UIAspectRatioConstraint")
+local Clear = Instance.new("TextButton")
+local UICorner_6 = Instance.new("UICorner")
+local UIAspectRatioConstraint_7 = Instance.new("UIAspectRatioConstraint")
+local Save = Instance.new("TextButton")
+local UICorner_7 = Instance.new("UICorner")
+local UIAspectRatioConstraint_8 = Instance.new("UIAspectRatioConstraint")
+local UIAspectRatioConstraint_9 = Instance.new("UIAspectRatioConstraint")
+
+--Properties:
+
+ScreenGui.Parent = game.CoreGui
+ScreenGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+
+Executor.Name = "Executor"
+Executor.Parent = ScreenGui
+Executor.BackgroundColor3 = Color3.fromRGB(12, 4, 20)
+Executor.BackgroundTransparency = 0.120
+Executor.BorderColor3 = Color3.fromRGB(27, 42, 53)
+Executor.Position = UDim2.new(0.307999998, 0, 1.26199996, 0)
+Executor.Size = UDim2.new(0, 481, 0, 287)
+
+UICorner.Parent = Executor
+
+TopBar.Name = "TopBar"
+TopBar.Parent = Executor
+TopBar.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+TopBar.BackgroundTransparency = 0.600
+TopBar.Size = UDim2.new(0, 481, 0, 35)
+TopBar.Font = Enum.Font.SourceSansItalic
+TopBar.Text = "Delta"
+TopBar.TextColor3 = Color3.fromRGB(255, 255, 255)
+TopBar.TextSize = 25.000
+
+UICorner_2.Parent = TopBar
+
+UIAspectRatioConstraint.Parent = TopBar
+UIAspectRatioConstraint.AspectRatio = 13.743
+
+Down.Name = "Down"
+Down.Parent = Executor
+Down.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Down.BackgroundTransparency = 0.700
+Down.Position = UDim2.new(0, 0, 0, 281)
+Down.Size = UDim2.new(0, 480, 0, 6)
+
+UICorner_3.Parent = Down
+
+UIAspectRatioConstraint_2.Parent = Down
+UIAspectRatioConstraint_2.AspectRatio = 80.000
+
+EditorScroller.Name = "EditorScroller"
+EditorScroller.Parent = Executor
+EditorScroller.Active = true
+EditorScroller.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+EditorScroller.BackgroundTransparency = 0.600
+EditorScroller.BorderSizePixel = 0
+EditorScroller.Position = UDim2.new(0, 9, 0, 47)
+EditorScroller.Size = UDim2.new(0, 367, 0, 191)
+EditorScroller.ScrollBarThickness = 5
+EditorScroller.AutomaticCanvasSize = "XY"
+
+Editor.Name = "Editor"
+Editor.Parent = EditorScroller
+Editor.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Editor.BackgroundTransparency = 1.000
+Editor.Size = UDim2.new(0, 366, 0, 191)
+Editor.ClearTextOnFocus = false
+Editor.Font = Enum.Font.SourceSans
+Editor.MultiLine = true
+Editor.Text = ""
+Editor.TextColor3 = Color3.fromRGB(255, 255, 255)
+Editor.TextSize = 20.000
+Editor.TextXAlignment = Enum.TextXAlignment.Left
+Editor.TextYAlignment = Enum.TextYAlignment.Top
+Editor.AutomaticSize = "XY"
+
+UIAspectRatioConstraint_3.Parent = Editor
+UIAspectRatioConstraint_3.AspectRatio = 1.916
+
+UIAspectRatioConstraint_4.Parent = EditorScroller
+UIAspectRatioConstraint_4.AspectRatio = 1.921
+
+ScriptTab.Name = "ScriptTab"
+ScriptTab.Parent = Executor
+ScriptTab.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+ScriptTab.BackgroundTransparency = 0.600
+ScriptTab.Position = UDim2.new(0, 386, 0, 46)
+ScriptTab.Size = UDim2.new(0, 84, 0, 192)
+
+UICorner_4.Parent = ScriptTab
+
+UIAspectRatioConstraint_5.Parent = ScriptTab
+UIAspectRatioConstraint_5.AspectRatio = 0.438
+
+Execute.Name = "Execute"
+Execute.Parent = Executor
+Execute.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Execute.BackgroundTransparency = 0.600
+Execute.Position = UDim2.new(0, 70, 0, 248)
+Execute.Size = UDim2.new(0, 102, 0, 25)
+Execute.Font = Enum.Font.SourceSans
+Execute.Text = "Execute"
+Execute.TextColor3 = Color3.fromRGB(255, 255, 255)
+Execute.TextSize = 20.000
+
+UICorner_5.Parent = Execute
+
+UIAspectRatioConstraint_6.Parent = Execute
+UIAspectRatioConstraint_6.AspectRatio = 4.080
+
+Clear.Name = "Clear"
+Clear.Parent = Executor
+Clear.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Clear.BackgroundTransparency = 0.600
+Clear.Position = UDim2.new(0, 182, 0, 248)
+Clear.Size = UDim2.new(0, 102, 0, 25)
+Clear.Font = Enum.Font.SourceSans
+Clear.Text = "Clear"
+Clear.TextColor3 = Color3.fromRGB(255, 255, 255)
+Clear.TextSize = 20.000
+
+UICorner_6.Parent = Clear
+
+UIAspectRatioConstraint_7.Parent = Clear
+UIAspectRatioConstraint_7.AspectRatio = 4.080
+
+Save.Name = "Save"
+Save.Parent = Executor
+Save.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Save.BackgroundTransparency = 0.600
+Save.Position = UDim2.new(0, 294, 0, 248)
+Save.Size = UDim2.new(0, 102, 0, 25)
+Save.Font = Enum.Font.SourceSans
+Save.Text = "Save"
+Save.TextColor3 = Color3.fromRGB(255, 255, 255)
+Save.TextSize = 20.000
+
+UICorner_7.Parent = Save
+
+UIAspectRatioConstraint_8.Parent = Save
+UIAspectRatioConstraint_8.AspectRatio = 4.080
+
+UIAspectRatioConstraint_9.Parent = Executor
+UIAspectRatioConstraint_9.AspectRatio = 1.676
+
+-- Scripts:
+
+local function QDVHE_fake_script() -- Execute.LocalScript 
+	local script = Instance.new('LocalScript', Execute)
+
+	local execute = script.Parent
+	Editor = script.Parent.Parent.EditorScroller.Editor
+
+	execute.MouseButton1Click:Connect(
+		function()
+			assert(loadstring(Editor.Text))()
+		end
+	)
+
+end
+coroutine.wrap(QDVHE_fake_script)()
+local function MLYQ_fake_script() -- Clear.LocalScript 
+	local script = Instance.new('LocalScript', Clear)
+
+	Clear = script.Parent
+	Clear.MouseButton1Click:Connect(function()
+		script.Parent.Parent.EditorScroller.Editor.Text = ""
+	end)
+end
+coroutine.wrap(MLYQ_fake_script)()
+local function ORCKN_fake_script() -- Executor.LocalScript 
+	local script = Instance.new('LocalScript', Executor)
+
+	script.Parent.Active = true
+	script.Parent.Draggable = true
+	script.Parent.Parent.ResetOnSpawn = false
+end
+coroutine.wrap(ORCKN_fake_script)()
+local function JPWI_fake_script() -- Executor.LocalScript 
+	local script = Instance.new('LocalScript', Executor)
+
+	script.Parent:TweenPosition(UDim2.new(0.308, 0,0.262, 0), "Out", "Quint",1,true)
+end
+coroutine.wrap(JPWI_fake_script)()
+end) 
+
+tab.newButton("Dex V2", "Dex V2", function()
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Avtor1zaTion/Dex-explorer/main/Dex%20explorer'),true))()
+end) 
+
 tab.newButton("GHub", "GHub", function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/gclich/GHUBV14XZ/main/Ghub_Main_Loader.txt"))()
 end) 
