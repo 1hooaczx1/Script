@@ -98,9 +98,9 @@ SubmitButton.MouseButton1Click:Connect(function()
 screenGui:Destroy()
 
 local DrRayLibrary = loadstring(game:HttpGet("https://raw.githubusercontent.com/AZYsGithub/DrRay-UI-Library/main/DrRay.lua"))()
-local window = DrRayLibrary:Load("1hooaczx1", "1hooaczx1")
+local window = DrRayLibrary:Load("1hooaczx1", "Default")
 
-local tab = DrRayLibrary.newTab("1hooaczx1", "1hooaczx1")
+local tab = DrRayLibrary.newTab("Script", "Script")
 
 tab.newButton("My Script", "My Script", function()
 local DrRayLibrary = loadstring(game:HttpGet("https://raw.githubusercontent.com/AZYsGithub/DrRay-UI-Library/main/DrRay.lua"))()
@@ -3047,6 +3047,7 @@ end)
   
   end
 end)
+end) 
 
 KeyButton.MouseButton1Click:Connect(function()
  setclipboard("1hooaczx1") 
