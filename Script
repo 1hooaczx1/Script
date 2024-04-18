@@ -102,6 +102,8 @@ local window = DrRayLibrary:Load("1hooaczx1", "Default")
 
 local tab = DrRayLibrary.newTab("tab1", "tab1")
 
+local tab = DrRayLibrary.newTab("tab2", "tab2")
+
 tab1.newButton("Dex mobile", "Dex mobile", function()
 local __function = loadstring(game:HttpGet("https://github.com/Hosvile/DEX-Explorer/releases/latest/download/main.lua", true))
 
@@ -1288,7 +1290,7 @@ tab1.newButton("Haxker_6666666 Hub", "Haxker_6666666 Hub", function()
 loadstring(game:HttpGet('https://raw.githubusercontent.com/FreeRobloxScripts1/Haxker_6666666-Hub/main/loader'))()
 end) 
 
-tab.newButton("Sky Hub", "Sky Hub", function()
+tab1.newButton("Sky Hub", "Sky Hub", function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/SkyHub.txt"))()
 end) 
 
@@ -1300,7 +1302,7 @@ tab1.newButton("COOlkid gui", "COOlkid gui", function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/sinret/rbxscript.com-scripts-reuploads-/main/ckid", true))()
 end) 
 
-tab.newButton("Fling All", "Fling All", function()
+tab1.newButton("Fling All", "Fling All", function()
 loadstring(game:HttpGet("https://pastebin.com/raw/zqyDSUWX"))()
 end) 
 
@@ -1473,9 +1475,7 @@ tab1.newButton("Equinox Fe Hub", "Equinox Fe Hub", function()
 loadstring(game:HttpGet(('https://pastebin.com/raw/wzB1Qh78'),true))()
 end) 
 
-local tab = DrRayLibrary.newTab("tab0", "tab0")
-
-tab0.newButton("My Script", "My Script", function()
+tab2.newButton("My Script", "My Script", function()
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
 local Window = Library.CreateLib("1hooaczx1", "BloodTheme")
  
