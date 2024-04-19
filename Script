@@ -121,6 +121,18 @@ tab.newButton("Keyboard", "Keyboard", function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/advxzivhsjjdhxhsidifvsh/mobkeyboard/main/main.txt", true))()
 end) 
 
+tab.newButton("Fe R6 Fake death", "Fe R6 Fake death", function()
+loadstring(game:HttpGet(('https://pastebin.com/raw/rDtxJhGN'),true))()
+end) 
+
+tab.newButton("Fe R15 Fake death", "Fe R15 Fake death", function()
+loadstring(game:HttpGet(('https://pastebin.com/raw/YsySdrFb'),true))()
+end) 
+
+tab.newButton("Moon ui V10", "Moon ui V10", function()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/IlikeyocutgHAH12/MoonUI-v10-/main/MoonUI%20v10'))()
+end) 
+
 tab.newButton("Anti Kick", "Anti Kick", function()
 wait(1)
 print("Checking if Anti_Kick is already running.")
