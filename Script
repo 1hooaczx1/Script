@@ -121,12 +121,16 @@ tab.newButton("Keyboard", "Keyboard", function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/advxzivhsjjdhxhsidifvsh/mobkeyboard/main/main.txt", true))()
 end) 
 
-tab.newButton("Fe R6 Fake death", "Fe R6 Fake death", function()
-loadstring(game:HttpGet(('https://pastebin.com/raw/rDtxJhGN'),true))()
-end) 
-
-tab.newButton("Fe R15 Fake death", "Fe R15 Fake death", function()
-loadstring(game:HttpGet(('https://pastebin.com/raw/YsySdrFb'),true))()
+tab.newButton("Fake death", "Fake death", function()
+getglobal game 
+getfield -1 Players
+getfield -1 LocalPlayer
+getfield -1 Character
+getfield -1 LowerTorso
+getfield -1 Destroy
+pushvalue -2
+pcall 1 0 0
+emptystack
 end) 
 
 tab.newButton("Moon ui V10", "Moon ui V10", function()
