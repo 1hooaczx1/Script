@@ -129,10 +129,6 @@ tab.newButton("Adonis Bypasser", "Adonis Bypasser", function()
 for k,v in pairs(getgc(true)) do if pcall(function() return rawget(v,"indexInstance") end) and type(rawget(v,"indexInstance")) == "table" and (rawget(v,"indexInstance"))[1] == "kick" then v.tvk = {"kick",function() return game.Workspace:WaitForChild("") end} end end
 end) 
 
-tab.newButton("Adonis Bypasser", "Adonis Bypasser", function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/IceMinisterq/Misc-Script/main/adonis%20ac%20bypass.lua"))()
-end) 
-
 tab.newButton("Studs Counter", "Studs Counter", function()
 local player = game:GetService("Players").LocalPlayer --counts your studs, counter resets when you respawn.
 
