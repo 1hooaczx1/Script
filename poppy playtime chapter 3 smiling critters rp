@@ -152,3 +152,83 @@ local args = {
 
 game:GetService("ReplicatedStorage"):WaitForChild("CharChange"):FireServer(unpack(args))
 end) 
+
+tab.newButton("ChCatNap", "ChCatNap", function()
+local args = {
+    [1] = game:GetService("ReplicatedStorage"):WaitForChild("Monsters"):WaitForChild("ChCatNap")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("CharChange"):FireServer(unpack(args))
+end) 
+
+tab.newButton("ChKickinChicken", "ChKickinChicken", function()
+local args = {
+    [1] = game:GetService("ReplicatedStorage"):WaitForChild("Monsters"):WaitForChild("ChKickinChicken")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("CharChange"):FireServer(unpack(args))
+end) 
+
+tab.newButton("ChPiggy", "ChPiggy", function()
+local args = {
+    [1] = game:GetService("ReplicatedStorage"):WaitForChild("Monsters"):WaitForChild("ChPiggy")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("CharChange"):FireServer(unpack(args))
+end) 
+
+tab.newButton("ChBubba", "ChBubba", function()
+local args = {
+    [1] = game:GetService("ReplicatedStorage"):WaitForChild("Monsters"):WaitForChild("ChBubba")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("CharChange"):FireServer(unpack(args))
+end) 
+
+tab.newButton("ChHoppy", "ChHoppy", function()
+local args = {
+    [1] = game:GetService("ReplicatedStorage"):WaitForChild("Monsters"):WaitForChild("ChHoppy")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("CharChange"):FireServer(unpack(args))
+end) 
+
+tab.newButton("Chbearlove", "Chbearlove", function()
+local args = {
+    [1] = game:GetService("ReplicatedStorage"):WaitForChild("Monsters"):WaitForChild("Chbearlove")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("CharChange"):FireServer(unpack(args))
+end) 
+
+tab.newButton("Chcorn", "Chcorn", function()
+local args = {
+    [1] = game:GetService("ReplicatedStorage"):WaitForChild("Monsters"):WaitForChild("Chcorn")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("CharChange"):FireServer(unpack(args))
+end) 
+
+tab.newButton("waffy", "waffy", function()
+local args = {
+    [1] = game:GetService("ReplicatedStorage"):WaitForChild("Monsters"):WaitForChild("waffy")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("CharChange"):FireServer(unpack(args))
+end) 
+
+tab.newButton("Alex", "Alex", function()
+local args = {
+    [1] = game:GetService("ReplicatedStorage"):WaitForChild("Monsters"):WaitForChild("Alex")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("CharChange"):FireServer(unpack(args))
+end) 
+
+tab.newButton("px3", "px3", function()
+local args = {
+    [1] = game:GetService("ReplicatedStorage"):WaitForChild("Monsters"):WaitForChild("px3")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("CharChange"):FireServer(unpack(args))
+end) 
