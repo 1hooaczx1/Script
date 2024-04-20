@@ -8,3 +8,369 @@ tab.newButton("Cartoon Hoppy", "Cartoon Hoppy", function()
 
 game:GetService("ReplicatedStorage").CharChange:FireServer(ohInstance1)
 end)
+
+tab.newButton("bearlove", "bearlove", function()
+local ohInstance1 = game:GetService("ReplicatedStorage").Monsters.bearlove
+
+game:GetService("ReplicatedStorage").CharChange:FireServer(ohInstance1)
+end) 
+
+tab.newButton("Bubba", "Bubba", function()
+local ohInstance1 = game:GetService("ReplicatedStorage").Monsters.Bubba
+
+game:GetService("ReplicatedStorage").CharChange:FireServer(ohInstance1)
+end) 
+
+tab.newButton("CatNap CartoonV2", "CatNap CartoonV2", function()
+local ohInstance1 = game:GetService("ReplicatedStorage").Monsters["CatNap CartoonV2"]
+
+game:GetService("ReplicatedStorage").CharChange:FireServer(ohInstance1)
+end) 
+
+tab.newButton("CartoonDogDay", "CartoonDogDay", function()
+local ohInstance1 = game:GetService("ReplicatedStorage").Monsters.CartoonDogDay
+
+game:GetService("ReplicatedStorage").CharChange:FireServer(ohInstance1)
+end) 
+
+tab.newButton("Catnap", "Catnap", function()
+local ohInstance1 = game:GetService("ReplicatedStorage").Monsters.Catnap
+
+game:GetService("ReplicatedStorage").CharChange:FireServer(ohInstance1)
+end) 
+
+tab.newButton("Scary catnap", "Scary catnap", function()
+local ohInstance1 = game:GetService("ReplicatedStorage").Monsters["Scary catnap"]
+
+game:GetService("ReplicatedStorage").CharChange:FireServer(ohInstance1)
+end) 
+
+tab.newButton("corn", "corn", function()
+local ohInstance1 = game:GetService("ReplicatedStorage").Monsters.corn
+
+game:GetService("ReplicatedStorage").CharChange:FireServer(ohInstance1)
+end) 
+
+tab.newButton("DogDay", "DogDay", function()
+local ohInstance1 = game:GetService("ReplicatedStorage").Monsters.DogDay
+
+game:GetService("ReplicatedStorage").CharChange:FireServer(ohInstance1)
+end) 
+
+tab.newButton("Hoppy", "Hoppy", function()
+local ohInstance1 = game:GetService("ReplicatedStorage").Monsters.Hoppy
+
+game:GetService("ReplicatedStorage").CharChange:FireServer(ohInstance1)
+end) 
+
+tab.newButton("KickinChicken", "KickinChicken", function()
+local ohInstance1 = game:GetService("ReplicatedStorage").Monsters.KickinChicken
+
+game:GetService("ReplicatedStorage").CharChange:FireServer(ohInstance1)
+end) 
+
+tab.newButton("Piggy", "Piggy", function()
+local ohInstance1 = game:GetService("ReplicatedStorage").Monsters.Piggy
+
+game:GetService("ReplicatedStorage").CharChange:FireServer(ohInstance1)
+end) 
+
+tab.newButton("Sweet Sheep", "Sweet Sheep", function()
+local ohInstance1 = game:GetService("ReplicatedStorage").Monsters["Sweet Sheep"]
+
+game:GetService("ReplicatedStorage").CharChange:FireServer(ohInstance1)
+end) 
+
+tab.newButton("SportHoppy", "SportHoppy", function()
+local ohInstance1 = game:GetService("ReplicatedStorage").Monsters.SportHoppy
+
+game:GetService("ReplicatedStorage").CharChange:FireServer(ohInstance1)
+end) 
+
+tab.newButton("detectivedogday", "detectivedogday", function()
+local ohInstance1 = game:GetService("ReplicatedStorage").Monsters.detectivedogday
+
+game:GetService("ReplicatedStorage").CharChange:FireServer(ohInstance1)
+end) 
+
+tab.newButton("detectivecatnap", "detectivecatnap", function()
+local ohInstance1 = game:GetService("ReplicatedStorage").Monsters.detectivecatnap
+
+game:GetService("ReplicatedStorage").CharChange:FireServer(ohInstance1)
+end) 
+
+tab.newButton("bearlove", "bearlove", function()
+local ohInstance1 = game:GetService("ReplicatedStorage").Monsters.bearlove
+
+game:GetService("ReplicatedStorage").CharChange:FireServer(ohInstance1)
+end) 
+
+tab.newButton("TeacherBearHug", "TeacherBearHug", function()
+local ohInstance1 = game:GetService("ReplicatedStorage").Monsters.TeacherBearHug
+
+game:GetService("ReplicatedStorage").CharChange:FireServer(ohInstance1)
+end) 
+
+tab.newButton("Teacherbubba", "Teacherbubba", function()
+local ohInstance1 = game:GetService("ReplicatedStorage").Monsters.Teacherbubba
+
+game:GetService("ReplicatedStorage").CharChange:FireServer(ohInstance1)
+end) 
+
+tab.newButton("TeacherCatNap", "TeacherCatNap", function()
+local ohInstance1 = game:GetService("ReplicatedStorage").Monsters.TeacherCatNap
+
+game:GetService("ReplicatedStorage").CharChange:FireServer(ohInstance1)
+end) 
+
+tab.newButton("TeacherDogDay", "TeacherDogDay", function()
+local ohInstance1 = game:GetService("ReplicatedStorage").Monsters.TeacherDogDay
+
+game:GetService("ReplicatedStorage").CharChange:FireServer(ohInstance1)
+end) 
+
+tab.newButton("TeacherHoppy", "TeacherHoppy", function()
+local ohInstance1 = game:GetService("ReplicatedStorage").Monsters.TeacherHoppy
+
+game:GetService("ReplicatedStorage").CharChange:FireServer(ohInstance1)
+end) 
+
+tab.newButton("TeacherPicky", "TeacherPicky", function()
+local ohInstance1 = game:GetService("ReplicatedStorage").Monsters.TeacherPicky
+
+game:GetService("ReplicatedStorage").CharChange:FireServer(ohInstance1)
+end) 
+
+tab.newButton("KickinChicken", "KickinChicken", function()
+local ohInstance1 = game:GetService("ReplicatedStorage").Monsters.KickinChicken
+
+game:GetService("ReplicatedStorage").CharChange:FireServer(ohInstance1)
+end) 
+
+tab.newButton("TeacherKickin", "TeacherKickin", function()
+local ohInstance1 = game:GetService("ReplicatedStorage").Monsters.TeacherKickin
+
+game:GetService("ReplicatedStorage").CharChange:FireServer(ohInstance1)
+end) 
+
+tab.newButton("unsurprise", "unsurprise", function()
+local ohInstance1 = game:GetService("ReplicatedStorage").Monsters.unsurprise
+
+game:GetService("ReplicatedStorage").CharChange:FireServer(ohInstance1)
+end) 
+
+tab.newButton("LunchBoxy", "LunchBoxy", function()
+local ohInstance1 = game:GetService("ReplicatedStorage").Monsters.LunchBoxy
+
+game:GetService("ReplicatedStorage").CharChange:FireServer(ohInstance1)
+end) 
+
+tab.newButton("SummerDog", "SummerDog", function()
+local ohInstance1 = game:GetService("ReplicatedStorage").Monsters.SummerDog
+
+game:GetService("ReplicatedStorage").CharChange:FireServer(ohInstance1)
+end) 
+
+tab.newButton("ArtCrafty", "ArtCrafty", function()
+local ohInstance1 = game:GetService("ReplicatedStorage").Monsters.ArtCrafty
+
+game:GetService("ReplicatedStorage").CharChange:FireServer(ohInstance1)
+end) 
+
+tab.newButton("Farronfox", "Farronfox", function()
+local ohInstance1 = game:GetService("ReplicatedStorage").Monsters.Farronfox
+
+game:GetService("ReplicatedStorage").CharChange:FireServer(ohInstance1)
+end) 
+
+tab.newButton("EmoKickinChicken", "EmoKickinChicken", function()
+local ohInstance1 = game:GetService("ReplicatedStorage").Monsters.EmoKickinChicken
+
+game:GetService("ReplicatedStorage").CharChange:FireServer(ohInstance1)
+end) 
+
+tab.newButton("ChCatNap", "ChCatNap", function()
+local ohInstance1 = game:GetService("ReplicatedStorage").Monsters.ChCatNap
+
+game:GetService("ReplicatedStorage").CharChange:FireServer(ohInstance1)
+end) 
+
+tab.newButton("ChKickinChicken", "ChKickinChicken", function()
+local ohInstance1 = game:GetService("ReplicatedStorage").Monsters.ChKickinChicken
+
+game:GetService("ReplicatedStorage").CharChange:FireServer(ohInstance1)
+end) 
+
+tab.newButton("ChPiggy", "ChPiggy", function()
+local ohInstance1 = game:GetService("ReplicatedStorage").Monsters.ChPiggy
+
+game:GetService("ReplicatedStorage").CharChange:FireServer(ohInstance1)
+end) 
+
+tab.newButton("ChBubba", "ChBubba", function()
+local ohInstance1 = game:GetService("ReplicatedStorage").Monsters.ChBubba
+
+game:GetService("ReplicatedStorage").CharChange:FireServer(ohInstance1)
+end) 
+
+tab.newButton("ChHoppy", "ChHoppy", function()
+local ohInstance1 = game:GetService("ReplicatedStorage").Monsters.ChHoppy
+
+game:GetService("ReplicatedStorage").CharChange:FireServer(ohInstance1)
+end) 
+
+tab.newButton("Chbearlove", "Chbearlove", function()
+local ohInstance1 = game:GetService("ReplicatedStorage").Monsters.Chbearlove
+
+game:GetService("ReplicatedStorage").CharChange:FireServer(ohInstance1)
+end) 
+
+tab.newButton("Chcorn", "Chcorn", function()
+local ohInstance1 = game:GetService("ReplicatedStorage").Monsters.Chcorn
+
+game:GetService("ReplicatedStorage").CharChange:FireServer(ohInstance1)
+end) 
+
+tab.newButton("waffy", "waffy", function()
+local ohInstance1 = game:GetService("ReplicatedStorage").Monsters.waffy
+
+game:GetService("ReplicatedStorage").CharChange:FireServer(ohInstance1)
+end) 
+
+tab.newButton("Alex", "Alex", function()
+local ohInstance1 = game:GetService("ReplicatedStorage").Monsters.Alex
+
+game:GetService("ReplicatedStorage").CharChange:FireServer(ohInstance1)
+end) 
+
+tab.newButton("px3", "px3", function()
+local ohInstance1 = game:GetService("ReplicatedStorage").Monsters.px3
+
+game:GetService("ReplicatedStorage").CharChange:FireServer(ohInstance1)
+end) 
+
+tab.newButton("VaBubba", "VaBubba", function()
+local ohInstance1 = game:GetService("ReplicatedStorage").Monsters.VaBubba
+
+game:GetService("ReplicatedStorage").CharChange:FireServer(ohInstance1)
+end) 
+
+tab.newButton("VaHoppy", "VaHoppy", function()
+local ohInstance1 = game:GetService("ReplicatedStorage").Monsters.VaHoppy
+
+game:GetService("ReplicatedStorage").CharChange:FireServer(ohInstance1)
+end) 
+
+tab.newButton("VaDogDay", "VaDogDay", function()
+local ohInstance1 = game:GetService("ReplicatedStorage").Monsters.VaDogDay
+
+game:GetService("ReplicatedStorage").CharChange:FireServer(ohInstance1)
+end) 
+
+tab.newButton("VaCatNap", "VaCatNap", function()
+local ohInstance1 = game:GetService("ReplicatedStorage").Monsters.VaCatNap
+
+game:GetService("ReplicatedStorage").CharChange:FireServer(ohInstance1)
+end) 
+
+tab.newButton("CartoonDaisy", "CartoonDaisy", function()
+local ohInstance1 = game:GetService("ReplicatedStorage").Monsters.CartoonDaisy
+
+game:GetService("ReplicatedStorage").CharChange:FireServer(ohInstance1)
+end) 
+
+tab.newButton("mighty mouse", "mighty mouse", function()
+local ohInstance1 = game:GetService("ReplicatedStorage").Monsters["mighty mouse"]
+
+game:GetService("ReplicatedStorage").CharChange:FireServer(ohInstance1)
+end)
+
+tab.newButton("ChefPiggy", "ChefPiggy", function()
+local ohInstance1 = game:GetService("ReplicatedStorage").Monsters.ChefPiggy
+
+game:GetService("ReplicatedStorage").CharChange:FireServer(ohInstance1)
+end) 
+
+tab.newButton("HereticDogDay", "HereticDogDay", function()
+local ohInstance1 = game:GetService("ReplicatedStorage").Monsters.HereticDogDay
+
+game:GetService("ReplicatedStorage").CharChange:FireServer(ohInstance1)
+end) 
+
+tab.newButton("MonsterCatnpa", "MonsterCatnpa", function()
+local ohInstance1 = game:GetService("ReplicatedStorage").Monsters.MonsterCatnpa
+
+game:GetService("ReplicatedStorage").CharChange:FireServer(ohInstance1)
+end) 
+
+tab.newButton("GalaxyCatNap", "GalaxyCatNap", function()
+local ohInstance1 = game:GetService("ReplicatedStorage").Monsters.GalaxyCatNap
+
+game:GetService("ReplicatedStorage").CharChange:FireServer(ohInstance1)
+end) 
+
+tab.newButton("VaBobby", "VaBobby", function()
+local ohInstance1 = game:GetService("ReplicatedStorage").Monsters.VaBobby
+
+game:GetService("ReplicatedStorage").CharChange:FireServer(ohInstance1)
+end) 
+
+tab.newButton("VaChicken", "VaChicken", function()
+local ohInstance1 = game:GetService("ReplicatedStorage").Monsters.VaChicken
+
+game:GetService("ReplicatedStorage").CharChange:FireServer(ohInstance1)
+end) 
+
+tab.newButton("VaPicky", "VaPicky", function()
+local ohInstance1 = game:GetService("ReplicatedStorage").Monsters.VaPicky
+
+game:GetService("ReplicatedStorage").CharChange:FireServer(ohInstance1)
+end) 
+
+tab.newButton("VaCrafty", "VaCrafty", function()
+local ohInstance1 = game:GetService("ReplicatedStorage").Monsters.VaCrafty
+
+game:GetService("ReplicatedStorage").CharChange:FireServer(ohInstance1)
+end) 
+
+tab.newButton("CartoonWissy", "CartoonWissy", function()
+local ohInstance1 = game:GetService("ReplicatedStorage").Monsters.CartoonWissy
+
+game:GetService("ReplicatedStorage").CharChange:FireServer(ohInstance1)
+end) 
+
+tab.newButton("CartoonHuggy", "CartoonHuggy", function()
+local ohInstance1 = game:GetService("ReplicatedStorage").Monsters.CartoonHuggy
+
+game:GetService("ReplicatedStorage").CharChange:FireServer(ohInstance1)
+end) 
+
+tab.newButton("CartoonBoxy", "CartoonBoxy", function()
+local ohInstance1 = game:GetService("ReplicatedStorage").Monsters.CartoonBoxy
+
+game:GetService("ReplicatedStorage").CharChange:FireServer(ohInstance1)
+end) 
+
+tab.newButton("Dapper Player", "Dapper Player", function()
+local ohInstance1 = game:GetService("ReplicatedStorage").Monsters["Dapper Player"]
+
+game:GetService("ReplicatedStorage").CharChange:FireServer(ohInstance1)
+end) 
+
+tab.newButton("CartoonBoxshe", "CartoonBoxshe", function()
+local ohInstance1 = game:GetService("ReplicatedStorage").Monsters.CartoonBoxshe
+
+game:GetService("ReplicatedStorage").CharChange:FireServer(ohInstance1)
+end) 
+
+tab.newButton("MonsterCatNapV2", "MonsterCatNapV2", function()
+local ohInstance1 = game:GetService("ReplicatedStorage").Monsters.MonsterCatNapV2
+
+game:GetService("ReplicatedStorage").CharChange:FireServer(ohInstance1)
+end) 
+
+tab.newButton("NightmareCatNap", "NightmareCatNap", function()
+local ohInstance1 = game:GetService("ReplicatedStorage").Monsters.NightmareCatNap
+
+game:GetService("ReplicatedStorage").CharChange:FireServer(ohInstance1)
+end) 
