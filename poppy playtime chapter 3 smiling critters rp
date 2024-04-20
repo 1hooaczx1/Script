@@ -1,0 +1,10 @@
+local DrRayLibrary = loadstring(game:HttpGet("https://raw.githubusercontent.com/AZYsGithub/DrRay-UI-Library/main/DrRay.lua"))()
+local window = DrRayLibrary:Load("DrRay", "Default")
+
+local tab = DrRayLibrary.newTab("poppy playtime chapter 3 smiling critters rp", "poppy playtime chapter 3 smiling critters rp")
+
+tab.newButton("Cartoon Hoppy", "Cartoon Hoppy", function()
+    local ohInstance1 = game:GetService("ReplicatedStorage").Monsters.CartoonHoppy
+
+game:GetService("ReplicatedStorage").CharChange:FireServer(ohInstance1)
+end)
