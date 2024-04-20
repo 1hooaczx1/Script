@@ -108,6 +108,10 @@ local __function = loadstring(game:HttpGet("https://github.com/Hosvile/DEX-Explo
 __function(__function)
 end) 
 
+tab.newButton("Esp", "Esp", function()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Lucasfin000/SpaceHub/main/UESP'))()
+end) 
+
 tab.newButton("Keyboard gui", "Keyboard gui", function()
 --[[
 	Filename: Obfuscated_LocalScript.lua
