@@ -99,6 +99,12 @@ local ohInstance1 = game:GetService("ReplicatedStorage").Monsters.detectivecatna
 game:GetService("ReplicatedStorage").CharChange:FireServer(ohInstance1)
 end) 
 
+tab.newButton("ElectricityBubba", "ElectricityBubba", function()
+local ohInstance1 = game:GetService("ReplicatedStorage").Monsters["ElectricityBubba "]
+
+game:GetService("ReplicatedStorage").CharChange:FireServer(ohInstance1)
+end) 
+
 tab.newButton("bearlove", "bearlove", function()
 local ohInstance1 = game:GetService("ReplicatedStorage").Monsters.bearlove
 
