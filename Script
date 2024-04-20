@@ -121,6 +121,10 @@ tab.newButton("Keyboard", "Keyboard", function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/advxzivhsjjdhxhsidifvsh/mobkeyboard/main/main.txt", true))()
 end) 
 
+tab.newButton("Play Music gui", "Play Music gui", function()
+loadstring(game:HttpGet(('https://pastebin.com/raw/g97RafnE'),true))()
+end) 
+
 tab.newButton("Aedio Logger", "Aedio Logger", function()
 aa = game:GetObjects("rbxassetid://01997056190")[1]
 aa.Parent = game.CoreGui
