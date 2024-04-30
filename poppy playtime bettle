@@ -1,0 +1,32 @@
+local DrRayLibrary = loadstring(game:HttpGet("https://raw.githubusercontent.com/AZYsGithub/DrRay-UI-Library/main/DrRay.lua"))()
+local window = DrRayLibrary:Load("DrRay", "Default")
+
+local tab = DrRayLibrary.newTab("Script", "ImageIdHere")
+
+tab.newButton("Badge1kill", "Badgekill", function()
+game:GetService("ReplicatedStorage").Remotes.BadgeGiven:FireServer()
+end) 
+
+tab.newButton("Badge25kill", "Badge25kill", function()
+game:GetService("ReplicatedStorage").Remotes.BadgeGiven25:FireServer()
+end) 
+
+tab.newButton("Badge50kill", "Badge50kill", function()
+game:GetService("ReplicatedStorage").Remotes.BadgeGiven50:FireServer()
+end) 
+
+tab.newButton("Badge100kill", "Badge100kill", function()
+game:GetService("ReplicatedStorage").Remotes.BadgeGiven100:FireServer()
+end) 
+
+tab.newButton("Badge250kill", "Badge250kill", function()
+game:GetService("ReplicatedStorage").Remotes.BadgeGiven250:FireServer()
+end) 
+
+tab.newButton("Badge500kill", "Badge500kill", function()
+game:GetService("ReplicatedStorage").Remotes.BadgeGiven500:FireServer()
+end) 
+
+tab.newButton("Badge1000kill", "Badge1000kill", function()
+game:GetService("ReplicatedStorage").Remotes.BadgeGiven1000:FireServer()
+end) 
