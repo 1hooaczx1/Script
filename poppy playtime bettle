@@ -30,3 +30,15 @@ end)
 tab.newButton("Badge1000kill", "Badge1000kill", function()
 game:GetService("ReplicatedStorage").Remotes.BadgeGiven1000:FireServer()
 end) 
+
+tab.newButton("Mini Huggy Badge", "Mini Huggy Badge", function()
+local ohString1 = "i=Instance.new('StringValue', game.Workspace); i.Name='8148997'; i.Value='129138'"
+
+game:GetService("ReplicatedStorage").Remotes.CandyCollected:FireServer(ohString1)
+end) 
+
+tab.newButton("Ranibow Mini Huggy Badge", "Ranibow Mini Huggy Badge", function()
+local ohString1 = "i=Instance.new('StringValue', game.Workspace); i.Name='6708869'; i.Value='856463'"
+
+game:GetService("ReplicatedStorage").Remotes.CandyCollected2:FireServer(ohString1)
+end) 
